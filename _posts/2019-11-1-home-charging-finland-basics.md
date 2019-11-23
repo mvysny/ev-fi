@@ -11,7 +11,7 @@ After I bought the car, I realized to my horror that the range is only 160km (wh
 and it lacked fast-charging (which ruled out charging in a shopping mall since slow-charging would take at least 5 hours).
 So home charging was the only option, but I knew nothing about the possibilities and dangers of home charging.
 I got terrified that I wouldn't be able to charge the car (or I'd burn my house in attempt to do so at home),
-the fuses would constantly blow because of the enormous electricity draw,
+the fuses would constantly trip because of the enormous electricity draw,
 and I thought even about selling the car and going back to gasoline.
 
 Ultimately I didn't, but having a blog like this would have helped me tremendously at that time.
@@ -96,7 +96,7 @@ More powerful converters are more expensive, bigger and heavier.
 Wall Chargers however do not make much sense for a small house. At 6,6kW speed (32A at 220V) you'll need a special 40A fuse or a
 3-phase plug, which is very expensive to install. Since
 typical Finnish house is connected to the mains with 3-phases * 25A fuse per each phase,
-charging with 1-phase 32A 220V is not possible since the fuse can only handle 25A and would blow up; not to mention
+charging with 1-phase 32A 220V is not possible since the fuse can only handle 25A and would trip; not to mention
 that there are other applicances connected to that phase as well.
 
 Therefore, the safest speed is 3,3kW. Since you can easily and cheaply achieve 2,6kW charging speed (about 20km of range per hour gained)
@@ -124,8 +124,8 @@ If it is possible to draw an electric cable to your parking lot, then you can si
 charge. However, you need to take precautions:
 
 * You need to protect the connectors from the weathe, namely from the snow and rain. You can't simply leave the connectors lie on the ground in a
-  puddle of water - it will short the circuit and blow the fuse at the minimum, regardless of the IP waterproof protection rating.
-* You need to make sure there are no other appliances connected to the same circuit, otherwise you can blow up the fuse.
+  puddle of water - it will short the circuit and trip the fuse at the minimum, regardless of the IP waterproof protection rating.
+* You need to make sure there are no other appliances connected to the same circuit, otherwise you can trip the fuse.
 * If the schuko plug or the internal wiring is old, charging too fast can make the schuko burn and break.
   However, don't worry - we will discuss how to charge responsibly in the next blog.
 
