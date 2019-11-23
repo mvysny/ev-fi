@@ -70,15 +70,16 @@ charging speeds are made in China. This one worked for me really well: the [Zenc
 3. I have Nissan Leaf, therefore Type 1 charger. If you have any other car, Type 2 is probably for you - check first before ordering!
 4. It has all sorts of protection and CE sticker.
 
-> There are no CHAdeMO nor CCS portable car. Only Type 1 and Type 2 ones.
+> There are no CHAdeMO nor CCS portable car chargers, only Type 1 or Type 2.
 
-However, generally any charger with the CE sticker and 8A+12A charging speed support will work nicely. Just search the [AliExpress](https://www.aliexpress.com)
+Generally, any charger with the CE sticker and 8A+12A charging speed support will work nicely. Just search the [AliExpress](https://www.aliexpress.com)
 site - you'll find lots of those chargers at very friendly prices.
 
 ## General Tips
 
 1. Make sure that the charger-to-extension-cord connection point is not just lying on the ground.
-   Even when protected with Suojakotelo, it won't work when submerged in water.
+   Even when protected with Suojakotelo, it will short when a water puddle is formed because of rain. Put it on high ground, or cover it;
+   only leave it lying on ground when there is no way for a water puddle to form.
 2. You should attach the cables to the wall with [ruuvikiinnike](https://www.k-rauta.fi/rautakauppa/ruuvikiinnike-thorsman-tcs-c3-10-14-v-100kpl). That way,
   the cables won't simply lie around for you to kick them away. Also they will support the extension cord so that it won't simply hang with its entire weight on the Schuko
   plug and won't create mechanical stress on the Schuko plug.
