@@ -19,7 +19,8 @@ EVs use more electricity than any other electric appliance in your home *by far*
 you would need to charge 6-7 hours at the speed of 3,5kW. Compare that to your electric grill which draws 2kW for maybe 1 hour;
 an electric heater which draws 1,5kW for perhaps 3-4 hours tops. The only comparable device is sauna, but we'll get there in a minute.
 The bottom line is that the act of charging of your car at home (or when being over at friends' or family visit) will stress the
-electric wiring and will near its limits, therefore it's important to know what those limits are.
+electric wiring and will near its limits, therefore it's important to know what those limits are, and avoid them.
+When you make sure to draw at speeds as described below, it is safe to charge an EV even for 12 hours.
 
 The Schuko was designed to allow draw the maximum of 16A at 220V (3,5kW), but *ONLY FOR 2 HOURS*. That is usually quite enough for all
 of typical household appliances (except for sauna, but sauna is hardwired directly to cables, not connected via Schuko),
