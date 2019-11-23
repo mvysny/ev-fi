@@ -17,8 +17,10 @@ the screws back - that's all. MAKE SURE TO TURN OFF ALL THE FUSES FIRST, both in
 When finished, turn the fuses back on, configure the hour wheel to be always on, and try out that the hour wheel provides
 electricity (e.g. by plugging in a cellphone charger).
 
-If your car charger has a bent connector cable, that's excellent: you can plug the charger directly into the hour wheel and lead the
-cable outside of the Car Heater Plug Box. However, my charger had a straight connector cable which wouldn't fit inside of the
+If your car charger has connector plug with a bent cable out, that's excellent: it will fit inside of the Heater Plug Box.
+You can then plug the charger plug directly into the hour wheel and lead the
+cable outside of the Car Heater Plug Box, without any need for extension cord.
+However, my charger had connector plug with straight cable out which wouldn't fit inside of the
 Car Heater Plug Box. Therefore I had to buy an extension cord with bent connector cable -
 the straight connector wouldn't fit in. Unfortunately I couldn't find a proper durable IP44 outdoor extension cord with
 the straight connector, that's why I bought an inside one: [JATKOJOHTO OPAL 1-OSAINEN MAADOITETTU 5M](https://www.k-rauta.fi/rautakauppa/s%C3%A4hk%C3%B6--valaistus-ja-turvallisuus/sahkotarvikkeet/jatkojohdot-ja-kelat/jatkojohto-opal-1-osainen-maadoitettu-5m).
