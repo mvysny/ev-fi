@@ -75,13 +75,13 @@ However, fast-charge doesn't work with a cheap Leaf or with a car which can't qu
 make sure that it either has CCS or CHAdeMO plug, or else don't drive outside of the city with the car.
 
 Fast-charging is an excellent
-option for city dwellers which often has no other possibility to charge.
+option for city dwellers which typically live in a block of flats and often has no other possibility to charge.
 
 ### Charging At Home From a Wall Charger
 
 Safest option, however not the cheapest one.
 You need to pay 650 EUR for the cheapest wall charger (currently Webasto; Tesla Wall charger is cheaper at 500 EUR but it requires
-some kind of a RCD thingy DC leakage protection fuse which costs around 200-300EUR) and 500 EUR for an electrician to install it properly.
+some kind of a RCD thingy DC leakage protection fuse which costs around 200-300EUR; Webasto has the RCD thingy built-in) and 500 EUR for an electrician to install it properly.
 
 The Wall Charger is very safe since it's connected directly to the wires. A friend of mine used to charge from Schuko until he found the Schuko
 plug one day completely black, as it heated up because of fast electricity draw and started to burn (even though there were no flames).
