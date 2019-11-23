@@ -62,7 +62,7 @@ However, not all extension cords and car chargers fits within the protector; als
 The only original car charger I know of which doesn't charge at 16A is Tesla UMC (Universal Mobility Connector) charger:
 if plugged into Schuko it will automatically limit itself to 13A, and you can further lower the charging speed from the car itself to any value below 13A.
 
-If you don't own a Tesla then you'll need to buy a separate car charger. The only car chargers that I found which allow for 13A or 8A
+If you don't own a Tesla then you'll need to buy a separate car charger. The only car chargers that I found which allow for configurable 13A/12A/10A/8A
 charging speeds are made in China. This one worked for me really well: the [Zencar Type 1 Schuko Charger](https://www.aliexpress.com/item/32807932284.html):
 
 1. It allows for 8A and 12A charging speed (even though 12A charging speed is not listed on the page, it is still supported by the charger)
