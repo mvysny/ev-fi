@@ -25,21 +25,26 @@ When you make sure to draw at speeds as described below, it is safe to charge an
 The Schuko was designed to allow draw the maximum of 16A at 220V (3,5kW), but *ONLY FOR 2 HOURS*. That is usually quite enough for all
 of typical household appliances (except for sauna, but sauna is hardwired directly to cables, not connected via Schuko),
 however that's not nearly enough to charge an electric car. Charging at 16A at 220V for 2 hours will charge your
-battery for 6,6kWh only, which is roughly 50km of range. Not to mention that you shouldn't load the fuse on 100%,
+battery with 6,6kWh only, which is roughly 50km of range. Not to mention that you shouldn't load the fuse on 100%,
 but only at 80%, which means charging at 13A max on a 16A fuse, or 8A on a 10A fuse.
 
-To sum up: you can charge at 13A from Schuko as long as you want, but ONLY IF ALL of the following is met:
+## Charging Speeds
+
+You can charge at 13A from Schuko as long as you want, but ONLY IF ALL of the following is met:
 
 1. You know for sure that the fuse is 16A,
 2. The building has been built in the year 2000 at the latest (so that the wiring is good),
 3. Your extension cord (jatkojohto) can handle 13A continuous draw.
+4. There is nothing else consuming electricity from that circuit.
 
-If anything of the above is not met, charge at 10A (or even 8A to be extra sure, or in case of 10A fuse).
+* If anything of the above is not met, charge at 10A at most.
+* If the wiring is older or the fuse is just 10A, charge at most at 8A.
+* If the fuse is just 10A and there may be other appliances drawing power, charge at 6A.
 
-In order to charge at 13A or 10A or 8A, you need two things:
+In order to charge your car at the abovementioned speeds, you need two things:
 
 * A proper extension cord,
-* A car charger with configurable charging speed.
+* A car charger with configurable charging speed, or a car with configurable charging speed (I only know of Teslas).
 
 ## Extension Cords (Jatkojohdot)
 
