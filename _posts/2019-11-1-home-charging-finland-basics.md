@@ -26,7 +26,7 @@ First, a couple of theory. The most basic thing is kilowatt and kilowatt-hour:
 
 The math is simple: if you charge at a speed of 2kW, then after 10 hours your battery will gain 2kW * 10h = 20kWh.
 
-> A bit of a stupid parrable: Think driving at 50km/h for 10 hours, you'll get as far as 50 km/h * 10h = 500km.
+> A bit of a stupid parable: Think driving at 50km/h for 10 hours, you'll get as far as 50 km/h * 10h = 500km.
 
 An efficient EV such as Tesla Model 3 or Nissan Leaf will use 13kWh per 100km. The Leaf has around 22kWh of usable battery,
 which yields range of 100*22/13=~169km; Model 3 has 50kWh battery which thus yields range of roughly 384km.
