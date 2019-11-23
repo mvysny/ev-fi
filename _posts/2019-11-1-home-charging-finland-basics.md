@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Home-Charging Electric Vehicle in Finland: Basics
+title: Home-Charging Electric Vehicle in Finland - Basics
 ---
 
 One day I decided to hop on the EV revolution and got myself an used Nissan Leaf. The price
