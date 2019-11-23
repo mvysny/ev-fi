@@ -47,11 +47,13 @@ So, if you don't plan to buy Nissan, then you can forget about these two plug ty
 
 By default in Europe all charger stations and all cars use [Type 2 Mennekes](https://en.wikipedia.org/wiki/IEC_62196) connector and
 the [Combined Charging System or CCS](https://en.wikipedia.org/wiki/Combined_Charging_System) extension which allows high charging speeds
-(up to 350kW, but usually the car will allow much smaller speeds, typically around 100kW).
+(up to 350kW, but usually the car will allow much smaller speeds, typically around 100kW). Typically EV will
+have just the CCS plug, which can charge both from CCS and Type 2. However, Type 2 chargers often lack the cable,
+therefore it's a good idea to have the Type2-Type2 cable in your car all the time.
 
 ## Where To Charge Your Car
 
-There are generally three options to charge your car:
+I see the following options to charge your car:
 
 ### Charging Once Per Week At a Quick-Charger
 
@@ -63,10 +65,11 @@ K-Lataus supports 50kW charging speed, so it's one of the slower charging statio
 (compared to Tesla's Supercharger network with 150/250kW speed or IONITY's 350kW speed; however typical car can only charge at 100kW speed tops anyway).
 
 Fast-charging is a bit more expensive. For example with K-Lataus you pay 0,2 EUR per minute of charging;
-in order to charge 50kWh you'll need to charge for an hour or more. That means ~12 EUR for ~400km range, which is still very decent price.
+in order to charge 50kWh you'll need to charge for an hour or more. That means ~3 EUR for 100km range, which is still a very decent price.
 
 > The speed of charging decreases to roughly 25kW when the battery is ~85%+ full (depending on the car).
-That's why it's even more expensive to fast-charge to 100%, simply because you pay per minute to only get ~25kW of charge.
+That's why it's even more expensive to fast-charge to 100%, simply because you still pay per minute but you only get ~25kW of charge. That's why
+people typically fast-charge only until 80%.
 
 However, fast-charge doesn't work with a cheap Leaf or with a car which can't quick-charge. Before buying a car,
 make sure that it either has CCS or CHAdeMO plug, or else don't drive outside of the city with the car.
