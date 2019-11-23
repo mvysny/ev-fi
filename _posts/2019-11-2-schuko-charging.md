@@ -50,7 +50,7 @@ less resistance, which means less heat and less power losses, and you definitely
 For example this one: [Gelia jatkojohto 1-osainen 15 m H07RN-F 3x2.5 IP44](https://www.kodinterra.fi/fi/terra/gelia-jatkojohto-1-osainen-15-m-h07rn-f-3x25-ip44).
 
 Beware: don't buy the cable that can be rolled, e.g. [Gelia kaapelikela anti-twist 25m 3x1,5](https://www.kodinterra.fi/fi/terra/gelia-kaapelikela-anti-twist-25m-3x15).
-When rolled, such cable can only transfer 1kW, which is 4,5A at 220V, and no car charger can charge at such a low speed.
+When rolled, such cable can only transfer 1kW, which is 4,5A at 220V, and I don't know of any car/charger which can charge at such a low speed (with the exception of Tesla).
 To be extra safe, unroll your extension cord when charging.
 
 To be extra sure, you can also buy a protector which shields your charger-to-extension-cord connection point:
