@@ -22,7 +22,7 @@ That's why I decided to write down all of my knowledge and experience.
 First, a couple of theory. The most basic thing is kilowatt and kilowatt-hour:
 
 * Kilowatt measures speed of charging: the speed of electric power transfer to a battery
-* Kilowatthour measures the capacity of a battery.
+* Kilowatthour measures accumulated energy; it also measures the maximum capacity of a battery.
 
 The math is simple: if you charge at a speed of 2kW, then after 10 hours your battery will gain 2kW * 10h = 20kWh.
 
