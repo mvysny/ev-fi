@@ -27,11 +27,11 @@ however that's not nearly enough to charge an electric car. Charging at 16A at 2
 battery for 6,6kWh only, which is roughly 50km of range. Not to mention that you shouldn't load the fuse on 100%,
 but only at 80%, which means charging at 13A max on a 16A fuse, or 8A on a 10A fuse.
 
-To sum up: you can charge at 13A if all of the following is met:
+To sum up: you can charge at 13A from Schuko as long as you want, but ONLY IF ALL of the following is met:
 
 1. You know for sure that the fuse is 16A,
-2. The building has been built in the year 2000 at the latest,
-3. The extension cord (jatkojohto) can handle 13A continuous draw.
+2. The building has been built in the year 2000 at the latest (so that the wiring is good),
+3. Your extension cord (jatkojohto) can handle 13A continuous draw.
 
 If anything of the above is not met, charge at 10A (or even 8A to be extra sure, or in case of 10A fuse).
 
