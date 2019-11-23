@@ -90,7 +90,8 @@ However, he charged at 16A which is a big no-no with Schuko, as you will learn i
 Wall Charger provides alternating current (AC) and can usually charge at 3,3kW (16A at 220V), which is about 25km of range per hour.
 Higher speeds are possible: 6,6kW, 11kW or even 22kW. All cars can handle 6,6kW, however not every car can handle 11kW, and only a few
 cars can handle 22kW AC. For example Tesla Model 3 can handle only 11kW AC, even though it can handle 170kW-250kW DC.
-The problem is that the car needs an on-board AC->DC converter, and more powerful converters are more expensive, bigger and more heavy.
+The problem is that the battery charges with DC and thus the car needs an on-board AC->DC converter.
+More powerful converters are more expensive, bigger and heavier.
 
 Wall Chargers however do not make much sense for a small house. At 6,6kW speed (32A at 220V) you'll need a special 40A fuse or a
 3-phase plug, which is very expensive to install. Since
