@@ -46,9 +46,9 @@ socket, used by Nissan only; another is [CHAdeMO](https://en.wikipedia.org/wiki/
 So, if you don't plan to buy Nissan, then you can forget about these two plug types altogether.
 
 By default in Europe all charger stations and all cars use [Type 2 Mennekes](https://en.wikipedia.org/wiki/IEC_62196) connector and
-the [Combined Charging System or CCS](https://en.wikipedia.org/wiki/Combined_Charging_System) extension which allows high charging speeds
+its [Combined Charging System or CCS](https://en.wikipedia.org/wiki/Combined_Charging_System) extension which allows high charging speeds
 (up to 350kW, but usually the car will allow much smaller speeds, typically around 100kW). Typically EV will
-have just the CCS plug, which can charge both from CCS and Type 2. However, Type 2 chargers often lack the cable,
+have just the CCS plug, which can charge both from the CCS and Type 2. Type 2 chargers often lack the cable (so-called untethered),
 therefore it's a good idea to have the Type2-Type2 cable in your car all the time.
 
 ## Where To Charge Your Car
