@@ -51,4 +51,4 @@ suojakotelo where it connects to the Zencar charger. The Zencar is firmly attach
 the car charging cable is wrapped around the Plug Box. The suojakotelo and the cables are
 hidden beneath a wooden staircase. 
 
-![Car Heater Plug Box Setup][2019-11-3/charger-box.jpg]
+![Car Heater Plug Box Setup]({{ site.baseurl }}/2019-11-3/charger-box.jpg)
