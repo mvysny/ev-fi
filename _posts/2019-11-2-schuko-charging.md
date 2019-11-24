@@ -28,14 +28,17 @@ however that's not nearly enough to charge an electric car. Charging at 16A at 2
 battery with 6,6kWh only, which is roughly 50km of range. Not to mention that you shouldn't load the fuse on 100%,
 but only at 80%, which means charging at 13A max on a 16A fuse, or 8A on a 10A fuse.
 
+However, drawing 13A (2,8kW) or less from Schuko is completely fine for as long as you need, say, 12 hours.
+
 ## Charging Speeds
 
 You can charge at 13A from Schuko as long as you want, but ONLY IF ALL of the following is met:
 
 1. You know for sure that the fuse is 16A,
-2. The building has been built in the year 2000 at the latest (so that the wiring is good),
+2. The building has been built in the year 2000 at the latest (so that the wiring is new),
 3. Your extension cord (jatkojohto) can handle 13A continuous draw.
 4. There is nothing else consuming electricity from that circuit.
+5. The Schuko is properly grounded. (however some chargers can charge even on ungrounded Schuko).
 
 * If anything of the above is not met, charge at 10A at most.
 * If the wiring is older or the fuse is just 10A, charge at most at 8A.
@@ -65,10 +68,16 @@ However, not all extension cords and car chargers fits within the protector; als
 
 ## Car Chargers
 
-The only original car charger I know of which doesn't charge at 16A is Tesla UMC (Universal Mobility Connector) charger:
-if plugged into Schuko it will automatically limit itself to 13A, and you can further lower the charging speed from the car itself to any value below 13A.
+Generally, all car chargers will draw 16A which is crazy. However, there are exceptions:
 
-If you don't own a Tesla then you'll need to buy a separate car charger. The only car chargers that I found which allow for configurable 13A/12A/10A/8A
+Tesla UMC (Universal Mobility Connector) charger, when plugged into Schuko, will automatically limit itself to 13A,
+and you can further lower the charging speed from the car itself to any value below 13A.
+
+Also, BMW i3 [supports charging at three speeds](https://bmwi3owner.com/2014/02/charger/): Low is 6A, Reduced is 9A, Maximum is 12A, which nicely corresponds
+to my numbers.
+
+If your car+charger doesn't allow you to decrease charging speeds,
+then you will need to buy a separate car charger. The only car chargers that I found which allow for configurable 13A/12A/10A/8A
 charging speeds are made in China. This one worked for me really well: the [Zencar Type 1 Schuko Charger](https://www.aliexpress.com/item/32807932284.html):
 
 1. It allows for 8A and 12A charging speed (even though 12A charging speed is not listed on the page, it is still supported by the charger)
