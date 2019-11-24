@@ -115,6 +115,10 @@ That means that your neighbours will pay for your charging, and they aren't goin
 However, this is a very viable option if you live in a house which you own, and you are therefore free to modify the Heater Plug Box a bit.
 I'll explain how to do that in next blog.
 
+Also, often it is possible to get a deal with the housing company, to pay
+around 30 EUR per month (the money is negotiable) for unlimited charging from
+the heater box.
+
 ### Charging From a Schuko Overnight
 
 This is usually the easiest and cheapest option since no electrical wiring needs to be installed. Detached, semi-detached and
