@@ -54,7 +54,8 @@ In order to charge your car at the abovementioned speeds, you need two things:
 Buy a proper outside extension cord, at least IP44-rated (see [Wikipedia waterproof IP rating](https://en.wikipedia.org/wiki/IP_Code)
 for more details). For 8A charging this should be enough:
 [Gelia jatkojohto 1-osainen 10 m H05RR-F 3x1.5 IP44](https://www.kodinterra.fi/fi/terra/gelia-jatkojohto-1-osainen-10-m-h05rr-f-3x15-ip44-punainen).
-For 13A charging make sure to buy an extension cord with a wire diameter of 2.5mm. Bigger wire diameter mean
+For 13A charging [it's safest to buy an extension cord with a wire diameter of 2.5mm2](https://www.mybuilder.com/questions/v/6723/13a-socket-fed-from-15mm-twin-and-earth-cable).
+Bigger wire diameter mean
 less resistance, which means less heat and less power losses, and you definitely don't want your extension cord to overheat.
 For example this one: [Gelia jatkojohto 1-osainen 15 m H07RN-F 3x2.5 IP44](https://www.kodinterra.fi/fi/terra/gelia-jatkojohto-1-osainen-15-m-h07rn-f-3x25-ip44).
 
