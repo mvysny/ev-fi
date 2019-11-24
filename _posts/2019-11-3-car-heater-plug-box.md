@@ -44,11 +44,11 @@ Car Heater Plug Box. This way, the cable is supported by the duct tape and is no
 
 ## Photo
 
-The photo of my setup. Note the always-on hour-wheel connected to the white extension cord. The
-extension cord is wrapped by duck-tape just before it leaves the Plug Box, to protect
-the hour-wheel from mechanical stress. The white extension cord is protected by the
+The photo of my setup. Note the always-on hour-wheel, connected to the white extension cord.
+A black duck-tape is added to the cord just before it leaves the Plug Box, to protect
+the hour-wheel from mechanical stress. The other end of the white extension cord is protected by the
 suojakotelo where it connects to the Zencar charger. The Zencar is firmly attached to the wall;
 the car charging cable is wrapped around the Plug Box. The suojakotelo and the cables are
-hidden beneath a wooden staircase. 
+normally hidden beneath a wooden staircase, but I've removed the staircase temporarily for the photo. 
 
 ![Car Heater Plug Box Setup]({{ site.baseurl }}/images/2019-11-3/charger-box.jpg)
