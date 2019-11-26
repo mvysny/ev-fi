@@ -3,13 +3,34 @@ layout: post
 title: Charging From Car Heater Plug Box (Piharasia)
 ---
 
-You should only charge from a car heater box which you own, since we'll need to modify it a bit, to get rid of the 2-hour limitation.
-Also, make sure that the car heater box is connected to your own private electric meter, otherwise you'll use
-electricity paid for by everybody.
+Charging from the Car Heater Plug Box is a very intriguing possibility since
+the Heater Plug Box provides Schuko with all the cabling and the fuses already installed.
+However, you need to look out for the following things:
 
-However, often it is possible to get a deal with the housing company, to pay
+* The electricity metering in a parking lot/garage block could be shared for the entire neighbourhood (unless you have the heater box stuck to your house).
+  That means that your neighbours will pay for your charging, and they aren't going to like you and your EV car.
+* The car box always turns off after 2 hours. It is possible to modify this, but
+  definitely not on a shared car heater box (at least not without an approval from the housing company).
+* The Schuko plug in the car heater box will mechanically suffer if you simply
+  hang the mobile charger with its entire weight on the Schuko plug.
+* The electrical wiring may be old.
+
+However, a lot of the above can be remedied easily:
+
+* Shared metering: often it is possible to get a deal with the housing company, to pay
 around 30 EUR per month (the money is negotiable) for unlimited charging from
 the heater box.
+* The 2-hour limit can be disabled, see below.
+* The Schuko mechanical strain can be reduced easily by properly attaching the
+  charger. See below for ideas.
+* If the apartment block has been built before 2000s, chances are that the wiring
+  is old. In such case you should only charge at around 8A or even less.
+
+Please see the [Schuko Charging](../schuko-charging/) for additional hints and
+restrictions which apply when charging from Schuko - for example check whether the
+fuses are 10A or 16A.
+
+When everything of the above is sorted out, let's begin.
 
 ## Removing 2-hour Limit
 
