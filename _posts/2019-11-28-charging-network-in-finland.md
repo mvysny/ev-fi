@@ -16,11 +16,11 @@ to get tags/app from the following providers:
 
 * [K-Lataus](https://www.k-lataus.fi): already big and getting bigger, nation-wide charging provider, recently
   teamed up with Ionity
-* Ionity: EU-wide provider; only 3 online stations in Finland but it's expected
+* [Ionity](https://ionity.eu/): EU-wide provider; only 3 online stations in Finland but hopefully
   that more will follow
-* Fortum Charge&Drive: Scandinavia-wide provider
-* Virta: lots of chargers but also a roaming partner with lots of EU providers
-* PlugIt: couple of parking lots use this vendor
+* [Fortum Charge&Drive](https://map.chargedrive.com/en/): Scandinavia-wide provider
+* [Virta](https://www.virta.global): lots of chargers but also a roaming partner with lots of EU providers
+* [PlugIt](https://plugit.fi/): couple of parking lots use this vendor
 
 When doing a long trip, it's best to rely on providers with great reliability:
 provides which have at least 4 fast DC charging stations on spot. Even in the worst case
@@ -113,9 +113,28 @@ of Lithuania and Poland. The roaming prices are decent.
 
 ## Fortum Charge&Drive
 
+TODO
+
+Surprisingly a couple of chargers are now available in Lithuania and Poland as well.
+
 ## PlugSurfing
 
-TODO
+* [Map](https://www.plugsurfing.com/map)
+* Payments: tag/mobile app
+* Charging speed: varies a lot
+* Cost: whatever the operator charges, plus a fee on top of that. The fee
+  can be quite significant - always check the price both on the PlugSurfing map
+  and also on Virta map and on [PlugShare](https://www.plugshare.com/).
+
+A virtual roaming operator:
+they don't have own chargers but they have a lot of roaming agreements, and they
+will take a small fee on top. Sometimes the fee is significant, for example
+CSDD charging in Latvia costs 0,15€/min
+both natively with CSDD app and with IONITY,
+but 0,273€/min with PlugSurfing (that's still quite a decent price though).
+
+I keep PlugSurfing as a "save my ass" option - if there is no other way to charge,
+I'll simply use PlugSurfing. Just be wary of the prices.
 
 # Visiting EU by car
 
