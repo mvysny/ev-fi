@@ -3,7 +3,9 @@ layout: post
 title: Charging Network In Finland
 ---
 
-Currently the situation is as everywhere else: lots of players with their own
+The situation is far from perfect - only K-Lataus and Tesla provide great reliability,
+so you always need to plan your trip and considering falling back to another charger if need be. 
+Also, there are lots of players with their own
 smartphone app or a tag, which you need to have installed in order to charge.
 Luckily, things are improving and several providers will now allow you to
 charge simply by paying with your credit card (Tesla of course, but namely K-Lataus and PlugIt and
