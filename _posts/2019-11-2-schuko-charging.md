@@ -44,10 +44,10 @@ You can charge at 13A from Schuko as long as you want, but ONLY IF ALL of the fo
 * If the wiring is older or the fuse is just 10A, charge at most at 8A.
 * If the fuse is just 10A and there may be other appliances drawing power, charge at 6A.
 
-In order to charge your car at the abovementioned speeds, you need two things:
+In order to charge your car at the above-mentioned speeds, you need two things:
 
-* A proper extension cord,
-* A car charger with configurable charging speed, or a car with configurable charging speed (I only know of Teslas).
+* A proper extension cord (may not be needed if your charger has cable which is long enough),
+* A car charger with configurable charging speed, or a car with configurable charging speed.
 
 ## Extension Cords (Jatkojohdot)
 
@@ -75,20 +75,24 @@ Tesla UMC (Universal Mobility Connector) charger, when plugged into Schuko, will
 and you can further lower the charging speed from the car itself to any value below 13A.
 
 Also, BMW i3 [supports charging at three speeds](https://bmwi3owner.com/2014/02/charger/): Low is 6A, Reduced is 9A, Maximum is 12A, which nicely corresponds
-to my numbers.
+to my numbers above.
 
 If your car+charger doesn't allow you to decrease charging speeds,
-then you will need to buy a separate car charger. The only car chargers that I found which allow for configurable 13A/12A/10A/8A
-charging speeds are made in China. This one worked for me really well: the [Zencar Type 1 Schuko Charger](https://www.aliexpress.com/item/32807932284.html):
+then you will need to buy a separate car charger. I've found two chargers which allow for configurable 13A/12A/10A/8A:
 
-1. It allows for 8A and 12A charging speed (even though 12A charging speed is not listed on the page, it is still supported by the charger)
+* The [Metron PC03](https://eauto.si/metron-shop/product/type2-schuko-cee-16a-1-phase/) which also optionally comes with the RCD protection fuse (recommended), or
+* Much cheaper charger made in China; this one worked for me really well: the [Zencar Type 1 Schuko Charger](https://www.aliexpress.com/item/32807932284.html). It lacks the RCD protection fuse though.
+
+Both chargers:
+
+1. Allows for 8A and 12A charging speed (even though 12A charging speed is not listed on the page, it is still supported by the charger)
 2. It has a Schuko connector with a straight cable, which can be used with the suojakotelo thing as listed above.
 3. I have Nissan Leaf, therefore Type 1 charger. If you have any other car, Type 2 is probably for you - check first before ordering!
 4. It has all sorts of protection and CE sticker.
 
 > There are no CHAdeMO nor CCS portable car chargers, only Type 1 or Type 2.
 
-Generally, any charger with the CE sticker and 8A+12A charging speed support will work nicely. Just search the [AliExpress](https://www.aliexpress.com)
+Generally, any charger with the CE sticker and 6A+8A+10A+12A charging speed support will work nicely. Just search the [AliExpress](https://www.aliexpress.com)
 site - you'll find lots of those chargers at very friendly prices.
 
 ## General Tips

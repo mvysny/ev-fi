@@ -127,7 +127,7 @@ connected to your fuse box and to your electricity meter.
 If it is possible to draw an electric cable to your parking lot, then you can simply plug in your mobile charger and
 charge. However, you need to take precautions:
 
-* You need to protect the connectors from the weathe, namely from the snow and rain. You can't simply leave the connectors lie on the ground in a
+* You need to protect the connectors from the weather, namely from the snow and rain. You can't simply leave the connectors lie on the ground in a
   puddle of water - it will short the circuit and trip the fuse at the minimum, regardless of the IP waterproof protection rating.
 * You need to make sure there are no other appliances connected to the same circuit, otherwise you can trip the fuse.
 * If the schuko plug or the internal wiring is old, charging too fast can make the schuko burn and break.
@@ -140,6 +140,29 @@ safest and slowest charging that should give you enough juice:
 * Charging at 8A (1,76kW) will give you 13km per hour, or 160km per 12 hours (fully charges a 2015 Leaf with 24kW battery)
 * Charging at 10A (2,2kW) will give you 17km per hour, or 200km per 12 hours
 * Charging at 13A (2,9kW) will give you 20km per hour, or 260km per 12 hours
+
+### RCD/RCCB Fuse when charging from Schuko
+
+A residual-current device (RCD), or residual-current circuit breaker (RCCB) or Earth Leakage Circuit Breaker or Safety Switch, is
+a device that quickly breaks an electrical circuit to prevent serious harm from
+an ongoing electric shock. Its purpose is to prevent you from getting a fatal electric shock if
+you touch live part, such as a bare copper wire under high voltage.  
+
+It is important to be protected with the RCCB fuse. Usually the fuse is in the fuse box, see image below.
+In such case the charger itself doesn't need to contain the RCCB fuse. However, in older
+houses there is no RCCB fuse and then it's important to buy a charger with the RCCB fuse
+built-in. Tesla UMC chargers does *not* contain RCCB fuse.
+
+![RCCB fuse in a fuse box]({{ site.baseurl }}/images/2019-11-1/rccb.jpg)
+
+For example I've found this nifty charger which comes with the RCCB fuse:
+[Metron PC03](https://eauto.si/metron-shop/product/type2-schuko-cee-16a-1-phase/).
+
+There are two types of fuses, [RCD A and RCD B](http://www.electrical-installation.org/enwiki/Types_of_RCDs). RCD A guards against AC only, RCD B
+guards against AC and DC as well. Some chargers are protected by RCD A while others are protected by RCD B.
+
+Since it's good to have extra protection, I'll buy the Metron PC03 with the RCCB fuse,
+to charge when on the road.
 
 ### Charging From The blue "Caravan" plug or the red 3-phase plug
 
