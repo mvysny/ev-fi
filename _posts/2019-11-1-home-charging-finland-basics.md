@@ -161,7 +161,7 @@ For example I've found this nifty charger which comes with the RCCB fuse:
 There are two types of fuses, [RCD A and RCD B](http://www.electrical-installation.org/enwiki/Types_of_RCDs). RCD A guards against AC only, RCD B
 guards against AC and DC as well. Some chargers are protected by RCD A while others are protected by RCD B.
 
-Since it's good to have extra protection, I'll buy the Metron PC03 with the RCCB fuse,
+Since it's good to have extra protection, I'll buy the Metron PC03 with the RCD A fuse,
 to charge when on the road.
 
 ### Charging From The blue "Caravan" plug or the red 3-phase plug
