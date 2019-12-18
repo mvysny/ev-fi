@@ -41,13 +41,27 @@ user community and thus keeps most up-to-date charger map.
 and the one in Parnu is a 50kW free-to-use charger. Awesome!
 
 [Elmo](http://elmo.ee/charging-network/) operates a nation-wide network of chargers
-in Estonia. The prices are excellent - 4,5 EUR per charging session, regardless
-of kWh used. I haven't used this network yet, but it definitely sounds very useful
-and worth of registering. WARNING: Elmo doesn't seem to use CCD connectors,
-they only use CHAdeMO (and Type 2 for slow AC 22kW charging).
-So for example for Model 3 you'll need an adapter.
+in Estonia. The DC speed is 30kW and the prices are as follows:
 
-No known roaming with PlugSurfing.
+* 1,5€ for 10 minutes which translates to 0,3€/kWh
+* 3€ for 20min which is 0,3€/kWh
+* 4,5€ for up to 1 hour which translates to 0,15€/kWh
+
+I haven't used this network yet, but it definitely sounds very useful
+and worth of registering.
+
+WARNING: Elmo doesn't seem to use CCS connectors,
+they only use CHAdeMO (and Type 2 for slow AC 22kW charging).
+So for example for Model 3 you'll need an adapter. Also, some users complained
+that it's not possible to register on the spot and simply charge - the
+mobile app won't work and so you'll need to
+order the RFID.
+
+PlugSurfing shows no possible roaming. Shell Recharge only shows charger in Parnu and
+Talinn and the price is horrible - 0,6€/kWh.
+
+It's 200km from Talinn to Ainazi (Latvia border), so it's possible
+to skip charging in Estonia and charge in Latvia.
 
 # Latvia
 
@@ -63,7 +77,8 @@ with IONITY, but 0,273€/min with PlugSurfing (still quite a decent price thoug
 so this is great way to reuse your Ionity account.
 
 [PlugSurfing](https://www.plugsurfing.com/map) also roams with CSDD chargers but
-it's more expensive than Ionity roaming or e-mobi prices.
+it's more expensive than Ionity roaming or e-mobi prices. Reported to be working
+by a PlugShare user.
 
 # Lithuania
 
