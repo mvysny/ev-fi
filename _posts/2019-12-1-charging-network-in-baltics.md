@@ -51,8 +51,8 @@ WARNING: Elmo chargers do not provide CCS connectors,
 they only use CHAdeMO (and Type 2 for slow AC 22kW charging).
 So for example for Model 3 you'll need an adapter. Also, some users complained
 that it's not possible to register on the spot and simply charge - the
-mobile app won't work and so you'll need to
-order the RFID.
+mobile app wouldn't work and you'll need to
+order the RFID upfront (it may take 5-10 business days to arrive).
 
 PlugSurfing shows no possible roaming. Shell Recharge only shows charger in Parnu and
 Talinn and the price is horrible - 0,6€/kWh.
