@@ -144,7 +144,7 @@ Fortum Charge&Drive provides great coverage in Scandinavia; in Finland I've seen
 chargers usually in shopping malls.
 
 Surprisingly a couple of chargers are now available in Lithuania and Poland as well;
-see [Charging In Baltics](../2019-12-1-charging-network-in-baltics/) for more details.
+see [Charging In Baltics](../charging-network-in-baltics/) for more details.
 
 ## PlugSurfing
 
@@ -174,7 +174,7 @@ with Virta/PlugSurfing roaming.
 The road through Estonia/Latvia/Lithuania/Poland is very good in terms of road quality,
 but there are no chargers with "great" reliability - usually it's just one stand
 with one AC plug and one DC plug.
-See [Charging In Baltics](../2019-12-1-charging-network-in-baltics/) for more details.
+See [Charging In Baltics](../charging-network-in-baltics/) for more details.
 
 # Traveling With EV in Finland
 

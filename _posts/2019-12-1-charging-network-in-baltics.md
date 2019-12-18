@@ -3,17 +3,15 @@ layout: post
 title: Charging Network In Baltics
 ---
 
+The road through Estonia/Latvia/Lithuania/Poland is very good in terms of road quality,
+but there are no chargers with "great" reliability - usually it's just one stand
+with one AC plug and one DC plug. If it's broken or occupied, be prepared for a fallback
+plan to find alternative charger. 
+
 Please take this information with a grain of salt - I've never used the chargers
 myself (even though I plan to). Please let me know if there are any issues.
 
 # General Tips
-
-The road through Estonia/Latvia/Lithuania/Poland is very good in terms of road quality,
-but there are no chargers with "great" reliability - usually it's just one stand
-with one AC plug and one DC plug. If it's broken or occupied, be prepared for a fallback
-plan to find alternative charger. However often it's enough to call the number
-on the charger - the operator can then reboot the charger which is often enough to
-get the charger up-and-running.
 
 * Plan the trip first. You can use [A Better Route Planner](abetterrouteplanner.com/), however
   make sure you have at least 15%-20% battery left to reach next charger if the one
