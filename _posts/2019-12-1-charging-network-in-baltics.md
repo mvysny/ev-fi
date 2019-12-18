@@ -79,15 +79,19 @@ so this is great way to reuse your Ionity account.
 it's more expensive than Ionity roaming or e-mobi prices. Reported to be working
 by a PlugShare user.
 
+[Virta](https://virta.webapp.virtaglobal.com/) roams CSDD charging stations,
+but the price is even worse than when using PlugSurfing: 0,4€/min.
+
 # Lithuania
 
-According to PlugShare there are state-owned chargers which are free to use, so
+According to PlugShare and [this reddit thread](https://www.reddit.com/r/lithuania/comments/bqwn5f/electric_vehicle_charging/)
+there are state-owned and State Roads Directorate-operated chargers which are free to use, so
 it's preferable to use those.
 
-There is also another operator [Charge LT](http://bit.ly/Charge-LT) but it's not known
-what's the pricing or how to register.
+Alternatively there are paid chargers run by Renerga; the one in Klaipeda I found
+can be activated using the Virta app for 0,25€/min.
 
-No known roaming with PlugSurfing.
+No known roaming with PlugSurfing nor Shell Recharge.
 
 # Poland
 
