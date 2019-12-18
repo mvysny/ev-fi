@@ -43,11 +43,11 @@ and the one in Parnu is a 50kW free-to-use charger. Awesome!
 [Elmo](http://elmo.ee/charging-network/) operates a large network of chargers
 in Estonia, basically covering all country. The DC speed is 30kW and the prices are as follows:
 
-* 1,5€ for 10 minutes which translates to 0,3€/kWh
-* 3€ for 20min which is 0,3€/kWh
-* 4,5€ for up to 1 hour which translates to 0,15€/kWh
+* 1,5€ for 10 minutes which translates to 0,3€/kWh or 0,15€/min (beware of slower charging of just 30kW though)
+* 3€ for 20min which is 0,3€/kWh or 0,15€/min
+* 4,5€ for up to 1 hour which translates to 0,15€/kWh or 0,075€/min
 
-WARNING: Elmo doesn't seem to use CCS connectors,
+WARNING: Elmo chargers do not provide CCS connectors,
 they only use CHAdeMO (and Type 2 for slow AC 22kW charging).
 So for example for Model 3 you'll need an adapter. Also, some users complained
 that it's not possible to register on the spot and simply charge - the
@@ -57,13 +57,14 @@ order the RFID.
 PlugSurfing shows no possible roaming. Shell Recharge only shows charger in Parnu and
 Talinn and the price is horrible - 0,6€/kWh.
 
-If you do not have the RFID or you can't charge, it is actually possible
+If you do not have the RFID, or you don't have CHAdeMO port, or you can't charge for other reason,
+it is actually possible
 to skip charging in Estonia and charge in Latvia, since it's just 200km from Talinn
 to Ainazi (Latvia border).
 
 # Latvia
 
-[CSDD](https://www.csdd.lv/en/) is a national road mainaining authority that
+[CSDD](https://www.csdd.lv/en/) is a national road maintenance authority that
 also owns chargers.
 You may either register at [e-mobi](https://portal.e-mobi.lv/lv/sakumlapa/) to charge,
 or actually use the IONITY app to charge at all
