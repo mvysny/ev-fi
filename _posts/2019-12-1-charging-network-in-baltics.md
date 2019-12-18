@@ -69,7 +69,7 @@ to Ainazi (Latvia border).
 also owns chargers.
 You may either register at [e-mobi](https://portal.e-mobi.lv/lv/sakumlapa/) to charge,
 or actually use the IONITY app to charge at all
-CSDD chargers at the same price as if you registered at CSDD.
+CSDD chargers at the same price as with e-mobi.
 CSDD charging costs 0,15€/min
 with IONITY, but 0,273€/min with PlugSurfing (still quite a decent price though).
 
@@ -80,7 +80,7 @@ so this is great way to reuse your Ionity account.
 it's more expensive than Ionity roaming or e-mobi prices. Reported to be working
 by a PlugShare user.
 
-[Virta](https://virta.webapp.virtaglobal.com/) roams CSDD charging stations,
+[Virta](https://virta.webapp.virtaglobal.com/) roams CSDD charging stations as well,
 but the price is even worse than when using PlugSurfing: 0,4€/min.
 
 # Lithuania
