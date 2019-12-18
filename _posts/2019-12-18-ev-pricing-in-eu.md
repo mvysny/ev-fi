@@ -21,8 +21,8 @@ In the US:
 Now let's do the same, but this time in one randomly picked country in the EU (Finland):
 
 1. Start with $48,990, which is 44006 €
-2. Add 10% EU import tax: 48406 €
-3. Add 24% VAT: 60024 € which will get you close
+2. Add 10% EU import tax of 4400 € to get 48406 €
+3. Add 24% VAT of 11618 € to get 60024 € which will get you close
    to [official price of 59990 € in Finland](https://www.tesla.com/fi_FI/model3/design?redirect=no#battery).
 5. Add car tax, which is around 2,6% for zero CO2-emmision car: +1576 € -> 61566 €
 6. Since the price is now more than 50000 €, you will *not* receive a bonus of 2000 €
@@ -46,8 +46,8 @@ US:
 Finland:
 
 1. Start with $39,990, which is 35925 €
-2. Add 10% EU import tax: 39517 €
-3. Add 24% VAT: 49001 € which will get you close
+2. Add 10% EU import tax of 3592 € to get 39517 €
+3. Add 24% VAT of 9484 € to get 49001 € which will get you close
    to [official price of 48690 € in Finland](https://www.tesla.com/fi_FI/model3/design?redirect=no#battery).
 5. Add car tax, which is around 2,6% for zero CO2-emmision car: +1279 € -> 49969 €
 6. Since the price is less than 50000 €, you will receive a bonus of 2000 €
