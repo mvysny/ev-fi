@@ -14,7 +14,7 @@ myself (even though I plan to). Please let me know if there are any issues.
 # General Tips
 
 * Plan the trip first. You can use [A Better Route Planner](abetterrouteplanner.com/), however
-  make sure you have at least 15%-20% battery left to reach next charger if the one
+  make sure you have at least 15%-20% battery left to reach next charger if this one
   is broken or occupied.
 * If the DC charger is broken, try to call the phone number on the charger. There is
   now EU-wide roaming so the calls are generally cheap; the support should speak English
