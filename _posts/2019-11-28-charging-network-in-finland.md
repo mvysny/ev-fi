@@ -143,7 +143,8 @@ Example of roaming prices in Latvia for a 50kW DC charger operated by LV/CSD:
 Fortum Charge&Drive provides great coverage in Scandinavia; in Finland I've seen their
 chargers usually in shopping malls.
 
-Surprisingly a couple of chargers are now available in Lithuania and Poland as well.
+Surprisingly a couple of chargers are now available in Lithuania and Poland as well;
+see [Charging In Baltics](../2019-12-1-charging-network-in-baltics/) for more details.
 
 ## PlugSurfing
 
@@ -172,16 +173,8 @@ with Virta/PlugSurfing roaming.
 
 The road through Estonia/Latvia/Lithuania/Poland is very good in terms of road quality,
 but there are no chargers with "great" reliability - usually it's just one stand
-with one AC plug and one DC plug. If it's broken or occupied, be prepared for a fallback
-plan to find alternative charger. However often it's enough to call the number
-on the charger - the operator can then reboot the charger which is often enough to
-get the charger up-and-running.
-
-In Latvia, try to use IONITY instead of PlugSurfing: CSDD charging costs 0,15€/min
-with IONITY, but 0,273€/min with PlugSurfing (still quite a decent price though).
-
-In Poland, I registered for GreenWay chargers - there are quite a lot of charging
-places (even though they only host 1AC+1DC charger, so the reliability rating is "fair").
+with one AC plug and one DC plug.
+See [Charging In Baltics](../2019-12-1-charging-network-in-baltics/) for more details.
 
 # Traveling With EV in Finland
 
