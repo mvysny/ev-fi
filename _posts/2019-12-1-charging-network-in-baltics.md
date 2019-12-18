@@ -14,7 +14,7 @@ myself (even though I plan to). Please let me know if there are any issues.
 # General Tips
 
 * Plan the trip first. You can use [A Better Route Planner](abetterrouteplanner.com/), however
-  make sure you have at least 15%-20% battery left to reach next charger if this one
+  make sure you have at least 15%-20% battery left to reach next charger if the current one
   is broken or occupied.
 * If the DC charger is broken, try to call the phone number on the charger. There is
   now EU-wide roaming so the calls are generally cheap; the support should speak English
@@ -26,19 +26,16 @@ myself (even though I plan to). Please let me know if there are any issues.
 * It's best to prefer city-based chargers, since there are generally much more
   alternative chargers around.
 
-## Tesla Chargers
+## Tesla Superchargers
 
-There are no Tesla chargers in the Baltic states as of now (2019), neither there are any chargers
-above Warsaw in Poland. The chargers are planned and should be erected in 2020,
-you can see the [official Tesla Charger Map](https://www.tesla.com/fi_FI/findus/) to get more information.
+There are no Tesla superchargers in the Baltic states as of now (2019), neither there are any chargers
+above Warsaw in Poland. The superchargers are planned and should be erected in 2020,
+you can see the [official Tesla Supercharger Map](https://www.tesla.com/supercharger) to get more information.
 
 The [SuperCharge.info](https://supercharge.info/map) receives updates from Tesla
 user community and thus keeps most up-to-date charger map.
 
 # Estonia
-
-[Virta](https://virta.webapp.virtaglobal.com/) operates a couple of chargers in Estonia,
-and the one in Parnu is a 50kW free-to-use charger. Awesome!
 
 [Elmo](http://elmo.ee/charging-network/) operates a large network of chargers
 in Estonia, basically covering all country. The DC speed is 30kW and the prices are as follows:
@@ -53,6 +50,10 @@ So for example for Model 3 you'll need an adapter. Also, some users complained
 that it's not possible to register on the spot and simply charge - the
 mobile app wouldn't work and you'll need to
 order the RFID upfront (it may take 5-10 business days to arrive).
+
+[Virta](https://virta.webapp.virtaglobal.com/) operates/roams a couple of chargers in Estonia,
+and the one in Parnu is a 50kW free-to-use charger right next to a Hesburger.
+Worth a stop.
 
 PlugSurfing shows no possible roaming. Shell Recharge only shows charger in Parnu and
 Talinn and the price is horrible - 0,6€/kWh.
