@@ -83,7 +83,7 @@ contract and also paying the Caruna service provider ([Caruna distribution rates
 4. Caruna distribution price: 4,56c/kWh
 5. Tax: 2.79372c/kWh
 
-The monthly payment for 400kWh consumption is thus: 400*0,0575 + 3,84 + 12,9 + 400*0,0456 + 400*0,0279372 = 69,15488€,
+The monthly payment for 400kWh consumption is thus: 400 * 0,0575 + 3,84 + 12,9 + 400 * 0,0456 + 400 * 0,0279372 = 69,15488€,
 which (divided by 400kWh) gives me the final price of 0,173€ per kWh.
 
 I estimate that the car will be used 10000km per year, with 20% of charges done on
