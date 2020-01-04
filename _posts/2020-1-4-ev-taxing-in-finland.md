@@ -3,7 +3,7 @@ layout: post
 title: EV Taxing and Costs In Finland
 ---
 
-This article summarizes the taxes which you pay when you buy and EV, and when
+This article summarizes the taxes and other charges which you pay when you buy and EV, and when
 you use an EV on a yearly basis.
 
 # Purchase Costs
@@ -13,7 +13,7 @@ On top of that the car tax is applied ([tax car table](https://www.vero.fi/henki
 but [for EVs it's only 2,7%](https://www.tesla.com/fi_FI/support/incentives?redirect=no) but *from
 the general sales price* (use this [vero car tax calculator](https://asiointi.tulli.fi/mahtiinternet/hintatietojenhaku.do) to find the Yleinen myyntihinta - general sales price)
 
-If the price including VAT and car tax doesn't exceed 50000 €, you will
+If the price including VAT and car tax doesn't exceed 50000€, you will
 receive a subsidy of 2000€ from Finnish government (I think the salesperson mentioned that
 it is even possible to claim the subsidy
 at the sell-point directly). Note that this doesn't
@@ -52,27 +52,26 @@ Trafi uses the lowest possible tax for EVs:
 Example: Tesla Model 3 SR+, base weight 1645kg, GVWR: 2060kg
 1. Basic emission tax (perusvero): 53,29€ per year
 2. Propulsion tax (Käyttövoimavero): 0,015€ times (2060kg rounded up to 2100kg)/100kg times 365 days = 114,975€ per year 
-3. Total yearly tax: 53,29€ + 114,975€ = 168,265€
+3. Total yearly tax: 53,29€ + 114,975€ = 168€
 
 Example: Tesla Model 3 LR AWD, base weight 1847kg, GVWR: 2265kg
 1. Basic emission tax (perusvero): 53,29€ per year
 2. Propulsion tax (Käyttövoimavero): 0,015€ times (2265kg rounded up to 2300kg)/100kg times 365 days = 125,925€ per year 
-3. Total yearly tax: 53,29€ + 125,925€ = 179,215€
+3. Total yearly tax: 53,29€ + 125,925€ = 179€
 
 Example: Nissan Leaf 2015 24kWh battery, base weight 1460kg and maximum laden weight 1902kg:
 1. Basic emission tax (perusvero): 53,29€ per year
 2. Propulsion tax (Käyttövoimavero): 0,015€ times (1902kg rounded up to 2000kg)/100kg times 365 days = 109,5€ per year 
-3. Total yearly tax: 53,29€ + 109,5€ = 162,79€
+3. Total yearly tax: 53,29€ + 109,5€ = 163€
 
 ## Insurance
 
-Insurance for my used Nissan Leaf 2015 is 600 motor insurance plus 884 KASKO insurance with windshield protection,
-so 1484€ per year.
+Insurance for my used Nissan Leaf 2015 is 600€/y mandatory motor insurance plus 884€/y KASKO insurance with windshield protection,
+in total 1484€ per year.
 
-Estimated Tesla Model 3 SR+ insurance is 600 motor insurance plus 1700 KASKO, which
-yields 2300€ per year.
+Estimated Tesla Model 3 SR+ insurance is 600€/y mandatory motor insurance plus 1700€/y KASKO, in total 2300€ per year.
 
-## Yearly fuel cost estimate
+## Yearly "Fuel" Cost Estimate
 
 My estimated power usage is 400kWh per month. I'm paying for Helen "Fixed price 24 months"
 contract and also paying the Caruna service provider ([Caruna distribution rates](https://www.caruna.fi/en/our-services/products-and-rates/electricity-distribution-rates)):
@@ -119,7 +118,7 @@ thus estimate the checkup price to 150€ per year, including some basic repairs
 ## Roadworthiness Checkup
 
 You need to check the car roughly every 2 years for roadworthiness which costs
-only roughly 40€ (since there is no need for emission checkup), which makes
+around 40€ (it's cheaper since there is no need for emission checkup), which makes
 20€ per year.
 
 The exact inspection dates are: after 4 years, then every 2 years until the vehicle is
@@ -129,9 +128,9 @@ The exact inspection dates are: after 4 years, then every 2 years until the vehi
 
 Summing the above costs we can see that a yearly cost for an EV is:
 
-1. Nissan Leaf 2015: 162,79€ road taxes, 1484€ insurance, 224€ fuel cost per 10000km,
+1. Nissan Leaf 2015: 163€ road taxes, 1484€ insurance, 224€ fuel cost per 10000km,
    125€ car checkup, 20€ roadworthiness test: 2016€ per year.
-2. Tesla Model 3 SR+: 168,265€ road taxes, 2300€ insurance, 230€ fuel cost per 10000km,
+2. Tesla Model 3 SR+: 168€ road taxes, 2300€ insurance, 230€ fuel cost per 10000km,
    150€ car checkup, 20€ roadworthiness test: 2868€ per year.
-3. Tesla Model 3 LR AWD: 168,265€ road taxes, 2400€ insurance, 252€ fuel cost per 10000km,
+3. Tesla Model 3 LR AWD: 168€ road taxes, 2400€ insurance, 252€ fuel cost per 10000km,
    150€ car checkup, 20€ roadworthiness test: 2990€ per year.
