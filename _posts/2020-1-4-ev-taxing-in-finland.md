@@ -3,6 +3,9 @@ layout: post
 title: EV Taxing and Costs In Finland
 ---
 
+This article summarizes the taxes which you pay when you buy and EV, and when
+you use an EV on a yearly basis.
+
 # Purchase Costs
 
 When purchasing an EV in Finland, the car itself is taxed with VAT 24% as any other type of goods.
