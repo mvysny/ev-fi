@@ -24,7 +24,7 @@ page (Finnish only) and [Trafi.com](https://www.traficom.fi/fi/asioi-kanssamme/s
 
 Example: [Tesla Model 3 SR+ at 4.1.2020](https://www.tesla.com/fi_FI/model3/design?redirect=no#battery):
 
-1. The price with VAT 24%: 48690€; the [general sales price is 45762€](https://asiointi.tulli.fi/mahtiinternet/naytaUusiajoneuvointernet.do?kaupallinennimikeSID=347352)
+1. The price with VAT 24%: 48690€; the general sales price is 45762€
 2. Additional car tax 2,7% from the general sales price is 1235€ (strange: in Tesla website it's 1279€)
 3. Total car price is thus 48690€+1279€=49969€
 4. The total car price is less than 50000€: the car is eligible for the 2000€ subsidy: 49969€-2000€=47969€
@@ -32,7 +32,7 @@ Example: [Tesla Model 3 SR+ at 4.1.2020](https://www.tesla.com/fi_FI/model3/desi
 
 Example: [Tesla Model 3 LR AWD at 4.1.2020](https://www.tesla.com/fi_FI/model3/design?redirect=no#battery):
 
-1. The price with VAT 24%: 59990€; the [general sales price is 56440€](https://asiointi.tulli.fi/mahtiinternet/naytaUusiajoneuvointernet.do?kaupallinennimikeSID=341913)
+1. The price with VAT 24%: 59990€; the general sales price is 56440€
 2. Additional car tax 2,7% from the general sales price is 1524€ (strange: in Tesla website it's 1576€)
 3. Total car price is thus 59990€+1576€=61566€
 4. The total car price is more than 50000€, the car is not eligible for the 2000€ subsidy.
