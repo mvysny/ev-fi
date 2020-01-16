@@ -86,7 +86,7 @@ but the price is even worse than when using PlugSurfing: 0,4€/min.
 # Lithuania
 
 According to PlugShare and [this reddit thread](https://www.reddit.com/r/lithuania/comments/bqwn5f/electric_vehicle_charging/)
-there are state-owned and State Roads Directorate-operated chargers which are free to use, so
+there are state-owned and State Roads Directorate-operated chargers (LAKD) which are free to use, so
 it's preferable to use those.
 
 Alternatively there are paid chargers run by Renerga; the one in Klaipeda I found
