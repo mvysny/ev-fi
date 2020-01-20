@@ -19,8 +19,10 @@ to get tags/app from the following providers:
 * [K-Lataus](https://www.k-lataus.fi): already big and getting bigger, nation-wide charging provider, recently
   teamed up with Ionity
 * [Ionity](https://ionity.eu/): EU-wide provider; only 3 online stations in Finland but hopefully
-  that more will follow
-* [Fortum Charge&Drive](https://map.chargedrive.com/en/): Scandinavia-wide provider
+  that more will follow. However, as of 1. February of 2020, the price increased to a ridiculous price of 0,79€ per kWh,
+  and so I advise to ignore this charging network (and only perhaps get the Ionity account because of
+  roaming with Latvia's CSDD.
+* [Fortum Charge&Drive](https://map.chargedrive.com/en/): Scandinavia-wide charging provider
 * [Virta](https://www.virta.global): lots of chargers but also a roaming partner with lots of EU providers
 * [PlugIt](https://plugit.fi/): couple of parking lots use this vendor
 
@@ -39,7 +41,7 @@ I wouldn't rely on the following networks on longer trips:
   will take a small fee on top. However, usually the total charging fee is shown as
   "unknown" in the app, it's a bit like buying a cat in the bag. Get a token,
   but use it only in case of great need.
-* Possibly others; I'll add them.
+* Possibly others; I'll add them eventually.
 
 ## Planning A Route
 
