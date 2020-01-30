@@ -13,3 +13,7 @@ or anything, or if you're killed or hurt by following my advices. I'm not an ele
 If you need to be extra sure, call an electrician. You can then lower your taxes since
 this falls under a house rennovation (up to 2400 EUR per year I think).
 
+If you find these articles helpful and you're interested in buying Tesla,
+I'd be grateful if you used my referral code: [https://ts.la/martin92776](https://ts.la/martin92776).
+Thank you very much :)
+
