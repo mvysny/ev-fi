@@ -44,40 +44,39 @@ in Estonia, basically covering all country. The DC speed is 30kW and the prices 
 * 3€ for 20min which is 0,3€/kWh or 0,15€/min
 * 4,5€ for up to 1 hour which translates to 0,15€/kWh or 0,075€/min
 
-WARNING: Elmo chargers do not provide CCS connectors,
-they only use CHAdeMO (and Type 2 for slow AC 22kW charging).
+WARNING: Elmo chargers do not provide CCS connectors - they instead use Type1 with DC!
+Additionally there is CHAdeMO and Type 2 AC-only for slow 22kW charging.
 So for example for Model 3 you'll need an adapter. Also, some users complained
 that it's not possible to register on the spot and simply charge - the
 mobile app wouldn't work and you'll need to
 order the RFID upfront (it may take 5-10 business days to arrive).
 
 [Virta](https://virta.webapp.virtaglobal.com/) operates/roams a couple of chargers in Estonia,
-and the one in Parnu is a 50kW free-to-use charger right next to a Hesburger.
-Worth a stop.
+and the one in Parnu is a 50kW free-to-use charger right next to a Hesburger -
+worth a stop.
 
 PlugSurfing shows no possible roaming. Shell Recharge only shows charger in Parnu and
 Talinn and the price is horrible - 0,6€/kWh.
 
 If you do not have the RFID, or you don't have CHAdeMO port, or you can't charge for other reason,
-it is actually possible
+the best way is to
 to skip charging in Estonia and charge in Latvia, since it's just 200km from Talinn
 to Ainazi (Latvia border).
 
 # Latvia
 
 [CSDD](https://www.csdd.lv/en/) is a national road maintenance authority that
-also owns chargers.
-You may either register at [e-mobi](https://portal.e-mobi.lv/lv/sakumlapa/) to charge,
-or actually use the IONITY app to charge at all
-CSDD chargers at the same price as with e-mobi.
-CSDD charging costs 0,15€/min
-with IONITY, but 0,273€/min with PlugSurfing (still quite a decent price though).
+also owns chargers. They provide CCS, CHAdeMO and Type 2 AC charging.
+You can register at [e-mobi](https://portal.e-mobi.lv/lv/sakumlapa/) and download
+the Android App to charge.
+CSDD charging costs 0,15€/min with e-mobi, and 0,273€/min with PlugSurfing (quite a decent price).
 
-[IONITY](https://ionity.eu) roams with CSDD chargers with no additional price,
-so this is great way to reuse your Ionity account.
+[IONITY](https://ionity.eu) roams with CSDD chargers, but the price is not known.
+The Ionity app says that the charging costs 0,15€/min *with the e-mobi
+app*! I'd therefore avoid using Ionity.
 
 [PlugSurfing](https://www.plugsurfing.com/map) also roams with CSDD chargers but
-it's more expensive than Ionity roaming or e-mobi prices. Reported to be working
+it's more expensive than e-mobi prices, at 0,273€/min. Reported to be working
 by a PlugShare user.
 
 [Virta](https://virta.webapp.virtaglobal.com/) roams CSDD charging stations as well,
@@ -87,7 +86,9 @@ but the price is even worse than when using PlugSurfing: 0,4€/min.
 
 According to PlugShare and [this reddit thread](https://www.reddit.com/r/lithuania/comments/bqwn5f/electric_vehicle_charging/)
 there are state-owned and State Roads Directorate-operated chargers (LAKD) which are free to use, so
-it's preferable to use those.
+it's preferable to use those. The station is reportedly non-networked:
+you should not need any RFID or any kind of registration,
+you should be simply able to connect and charge.
 
 Alternatively there are paid chargers run by Renerga; the one in Klaipeda I found
 can be activated using the Virta app for 0,25€/min.
@@ -99,7 +100,8 @@ No known roaming with PlugSurfing nor Shell Recharge.
 The biggest charging operator in Poland is [GreenWay Polska](https://greenwaypolska.pl/en/).
 The prices are expensive (0,49€ per kWh, with additional time-based penalty when charging more
 than 45/60 minutes), but there is no other operator. It's highly recommended
-to register with GreenWay, since it is the most common charging network in Poland by far.
+to register with GreenWay, since it is the most common charging network in Poland
+and Slovakia by far.
 There are quite a lot of charging
 places (even though they only host 1AC+1DC charger, so the reliability rating is "fair").
 
