@@ -105,14 +105,11 @@ chargers in Estonia/Latvia/Lithuania/Poland.
 * [Map](https://ionity.eu/)
 * Payments: with mobile app
 * Charging speed: 350kW DC
-* Cost: 8€ per charging session. If you need to fill up your tank, this is the
-  cheapest and fastest option.
+* Cost: as of 1. February of 2020, the price increased to a ridiculous price of 0,79€ per kWh
 * Reliability: great in EU, fair in Finland (2 DC chargers on site)
 
-An EU-wide network of cheap and fast chargers. In Finland there are only three
-charging sites as of now, but new ones will be opened. Also, Ionity has roaming
-agreement with Latvia LV with prices of 0,15€/min; so if you travel to Latvia
-by car then I definitely recommend getting IONITY.
+An EU-wide network of fast chargers. In Finland there are only three
+charging sites as of now, but new ones will be opened. Expensive as hell, I'll avoid.
 
 ## Virta
 
@@ -129,7 +126,6 @@ of Lithuania and Poland. Always check the roaming prices upfront.
 Example of roaming prices in Latvia for a 50kW DC charger operated by LV/CSD:
 
 * LV operator natively charges 0,15€/min on 50kW charger
-* IONITY charges 0,15€/min on 50kW
 * Virta charges 0,4€/min on 50kW charger, which means 24€ for ~50kWh (overpriced)
 
 ## Fortum Charge&Drive
@@ -160,8 +156,7 @@ see [Charging In Baltics](../charging-network-in-baltics/) for more details.
 A virtual roaming operator:
 they don't have own chargers but they have a lot of roaming agreements, and they
 will take a small fee on top. Sometimes the fee is significant, for example
-CSDD charging in Latvia costs 0,15€/min
-both natively with CSDD app and with IONITY,
+CSDD charging in Latvia costs 0,15€/min natively with the e-mobi app,
 but 0,273€/min with PlugSurfing (that's still a decent price though).
 
 I keep PlugSurfing as a "save my ass" option - if there is no other way to charge,
