@@ -37,19 +37,16 @@ user community and thus keeps most up-to-date charger map.
 
 # Estonia
 
-[Elmo](http://elmo.ee/charging-network/) operates a large network of chargers
-in Estonia, basically covering all country. The DC speed is 30kW and the prices are as follows:
+[Volt](https://enefitvolt.com/en/elektriauto-laadimine) (used to be called Elmo previously)
+operates a large network of chargers
+in Estonia, basically covering entire country. The DC speed is 50kW and the prices are as follows:
 
-* 1,5€ for 10 minutes which translates to 0,3€/kWh or 0,15€/min (beware of slower charging of just 30kW though)
-* 3€ for 20min which is 0,3€/kWh or 0,15€/min
-* 4,5€ for up to 1 hour which translates to 0,15€/kWh or 0,075€/min
+* DC: 50kW CHAdeMO 0,24 €/kWh; after 60 min 0.1 €/min penalty is charged.
+* AC: 22kW Type 2 0,22 €/kWh; after 180 min 0.05 €/min penalty is charged.
 
-WARNING: Elmo chargers do not provide CCS connectors - they instead use Type1 with DC!
-Additionally there is CHAdeMO and Type 2 AC-only for slow 22kW charging.
-So for example for Model 3 you'll need an adapter. Also, some users complained
-that it's not possible to register on the spot and simply charge - the
-mobile app wouldn't work and you'll need to
-order the RFID upfront (it may take 5-10 business days to arrive).
+WARNING: Volt chargers do not provide CCS connectors - they only offer
+CHAdeMO and Type 2 AC-only for slow 22kW charging.
+So for example for Model 3 you'll need an adapter.
 
 [Virta](https://virta.webapp.virtaglobal.com/) operates/roams a couple of chargers in Estonia,
 and the one in Parnu is a 50kW free-to-use charger right next to a Hesburger -
