@@ -93,6 +93,9 @@ can be activated using the Virta app for 0,25€/min.
 
 No known roaming with PlugSurfing nor Shell Recharge.
 
+[IONITY](https://ionity.eu) is building three chargers. The price is outrageous 0,79€/kWh,
+but could be life-saving if need be.
+
 # Poland
 
 The biggest charging operator in Poland is [GreenWay Polska](https://greenwaypolska.pl/en/).
