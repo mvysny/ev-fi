@@ -70,7 +70,8 @@ CSDD charging costs 0,15€/min with e-mobi, and 0,273€/min with PlugSurfing (
 
 [IONITY](https://ionity.eu) roams with CSDD chargers, but the price is not known.
 The Ionity app says that the charging costs 0,15€/min *with the e-mobi
-app*! I'd therefore avoid using Ionity.
+app*! I'd therefore avoid using Ionity since they can basically add a nifty charge on
+top of that.
 
 [PlugSurfing](https://www.plugsurfing.com/map) also roams with CSDD chargers but
 it's more expensive than e-mobi prices, at 0,273€/min. Reported to be working
@@ -102,10 +103,20 @@ and Slovakia by far.
 There are quite a lot of charging
 places (even though they only host 1AC+1DC charger, so the reliability rating is "fair").
 
-PlugSurfing has no roaming in Poland.
+PlugSurfing has currently no roaming in Poland.
 
 There are Tesla superchargers in Poland, but they're not close to the Lithuania
-borders. However, there are additional superchargers planned in 2020.
+borders. The closest one is a two stall in Warsaw, but it's located in a 5th level
+underground parking garage with tight space. Luckily there is a new one in Radom;
+there are additional superchargers planned in 2020, namely in Ostrow Mazowiecka.
+
+The [Orlen Charge](https://orlencharge.orlen.pl/#/portal/locations) is a free network
+of CCS, Type 2 and CHAdeMO chargers placed on Orlen gas pumps which comes handy
+especially in Krakow since there are installed on six pumps. The
+[Orlen Charge Android app](https://play.google.com/store/apps/details?id=pl.orlen.charge)
+wouldn't install on my phone though.
 
 Surprisingly [Fortum Charge&Drive](https://map.chargedrive.com/en/) has a charger
 in Warsaw and Krakow, you might try those out.
+
+There's also GoNet EV CPMS network in Krakow, but the charging app looks weird :-)
