@@ -139,7 +139,7 @@ also there are additional superchargers planned in 2020, namely in Ostrow Mazowi
 The Radom supercharger is a huge lifesaver and the highway from Augustow to Warsaw to
 Krakow is brand new, I definitely recommend you to take this route.
 Avoid the "Warsaw - Czestochowa - Katowice" route - the concrete blocks forming the
-road are totally destroyed, I was surprised that my wheels did not fell off.
+road are completely destroyed, I was surprised that my wheels did not fell off.
 
 The [Orlen Charge](https://orlencharge.orlen.pl/#/portal/locations) is a free network
 of CCS, Type 2 and CHAdeMO chargers placed on Orlen gas pumps which comes handy
