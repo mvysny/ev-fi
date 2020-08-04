@@ -46,7 +46,8 @@ in Estonia, basically covering entire country. The DC speed is 50kW and the pric
 
 WARNING: Volt chargers do not provide CCS connectors - they only offer
 CHAdeMO and Type 2 AC-only for slow 22kW charging.
-So for example for Model 3 you'll need an adapter.
+So for example for Model 3 you'll either need a CHAdeMO adapter (I'm not sure whether such
+even exists), or charge from Type 2 AC slowly at 11kW speed.
 
 [Virta](https://virta.webapp.virtaglobal.com/) operates/roams a couple of chargers in Estonia,
 and the one in Parnu is a 50kW free-to-use charger right next to a Hesburger -
@@ -58,8 +59,9 @@ Talinn and the price is horrible - 0,6€/kWh.
 If you do not have the RFID, or you don't have CHAdeMO port, or you can't charge for other reason,
 the best way is to
 to skip charging in Estonia and charge in Latvia, since it's just 200km from Tallinn
-to Ainazi (Latvia border); try stopping in Parnu though and charge for free
-if the charger is available.
+to Ainazi (Latvia border). However try stopping in Parnu and charge for free
+if the charger is available - if it is, you will be able to travel through Latvia
+and charge in Lithuania for free.
 
 # Latvia
 
@@ -78,21 +80,22 @@ and requires a solid internet connection, otherwise you will spend your time wat
 a progress indicator rotating in the e-mobi app.
 
 For example the internet connectivity
-coverage of the [Vitrupe](https://www.plugshare.com/location/156536) charger is so weak
-you have to generally walk towards the main road to actually get a GSM signal.
+coverage of the [Vitrupe](https://www.plugshare.com/location/156536) charger
+(the beach there is beautiful, definitely worth a stop) is so weak
+you have to literally walk towards the main road to actually get a GSM signal.
 Even if you manage to pay for your charging session, you will need to
 touch the CCS adapter icon on the charger's touchscreen in order to actually charge.
 The display times out quickly (10 seconds or even less),
 and so you either rush towards the bloody charger, or you need someone else
 to press the bloody touchscreen. If you don't, the session will time out, charging
 won't start but 80€ will still be blocked on your credit card (even after 4 days
-the 80€ hasn't been unblocked from my account). I spent 30 minutes
+2x80€ hasn't been unblocked from my account). I spent 30 minutes
 cursing and swearing like a sailor until I remembered I have a RFID token from PlugSurfing -
-then the charging was a breeze. 
+then the charging was a breeze.
 
 [IONITY](https://ionity.eu) roams with CSDD chargers, but the price is not known.
 The Ionity app says that the charging costs 0,15€/min *with the e-mobi
-app* - they do not say how much it will cost with the Ionity app!
+app* but *they do not say how much it will cost with the Ionity app*!
 I therefore avoided using Ionity since they can basically add any kind of nifty charge on
 top.
 
@@ -105,8 +108,9 @@ but the price is even worse than when using PlugSurfing: 0,4€/min.
 
 # Lithuania
 
-According to PlugShare and [this reddit thread](https://www.reddit.com/r/lithuania/comments/bqwn5f/electric_vehicle_charging/)
-there are state-owned and State Roads Directorate-operated chargers (LAKD) which are free to use (verified by me).
+There are state-owned and State Roads Directorate-operated (LAKD) chargers.
+According to PlugShare, [this reddit thread](https://www.reddit.com/r/lithuania/comments/bqwn5f/electric_vehicle_charging/)
+and my experience they work very well and are free to use.
 The station is non-networked: you do not need any RFID or any kind of registration,
 you should be simply able to connect and charge. If the charging doesn't start automatically,
 just touch the display, select the CCS connector and start charging.
@@ -116,8 +120,8 @@ can be activated using the Virta app for 0,25€/min.
 
 No known roaming with PlugSurfing nor Shell Recharge.
 
-[IONITY](https://ionity.eu) is building three chargers. The price is outrageous 0,79€/kWh,
-but could be life-saving if need be.
+[IONITY](https://ionity.eu) is building three chargers close to Kaunas (or Panevezys, I can't remember).
+The price is an outrageous 0,79€/kWh, but could be life-saving if need be.
 
 # Poland
 
@@ -147,6 +151,7 @@ especially in Krakow since there are installed on six pumps. The
 [Orlen Charge Android app](https://play.google.com/store/apps/details?id=pl.orlen.charge)
 wouldn't install on my phone, but I was able to charge via the
 [Orlen Charge](https://orlencharge.orlen.pl/#/portal/locations) web page.
+Definitely worth a stop.
 
 Surprisingly [Fortum Charge&Drive](https://map.chargedrive.com/en/) has a charger
 in Warsaw and Krakow, you might try those out.
