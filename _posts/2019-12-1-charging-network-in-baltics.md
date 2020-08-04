@@ -23,7 +23,7 @@ plan to find alternative charger.
 * It's best to prefer city-based chargers, since there are generally much more
   alternative chargers around.
   
-From my experience all chargers worked (none were broken) and were mostly free:
+From my experience all chargers worked (none were broken) and were mostly unoccupied;
 only in 1/5 of times the chargers were occupied and I had to wait 15 minutes.
 
 ## Tesla Superchargers
