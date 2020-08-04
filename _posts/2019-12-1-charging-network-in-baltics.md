@@ -8,9 +8,6 @@ but there are no chargers with "great" reliability - usually it's just one stand
 with one AC plug and one DC plug. If it's broken or occupied, be prepared for a fallback
 plan to find alternative charger. 
 
-Please take this information with a grain of salt - I've never used the chargers
-myself (even though I plan to). Please let me know if there are any issues.
-
 # General Tips
 
 * Plan the trip first. You can use [A Better Route Planner](abetterrouteplanner.com/), however
@@ -25,6 +22,9 @@ myself (even though I plan to). Please let me know if there are any issues.
   forced to call a towing service, or find the next charger.
 * It's best to prefer city-based chargers, since there are generally much more
   alternative chargers around.
+  
+From my experience all chargers worked (none were broken) and were mostly free:
+only in 1/5 of times the chargers were occupied and I had to wait 15 minutes.
 
 ## Tesla Superchargers
 
@@ -135,6 +135,8 @@ There are Tesla superchargers in Poland, but they're not close to the Lithuania
 borders. The closest one is a two stall in Warsaw, but it's located in a 5th level
 underground parking garage with tight space. Luckily there is a new one in Radom;
 there are additional superchargers planned in 2020, namely in Ostrow Mazowiecka.
+Especially the Radom supercharger is a lifesaver, and the highway from Warsaw to
+Krakow is brand new, definitely a good route to take.
 
 The [Orlen Charge](https://orlencharge.orlen.pl/#/portal/locations) is a free network
 of CCS, Type 2 and CHAdeMO chargers placed on Orlen gas pumps which comes handy
