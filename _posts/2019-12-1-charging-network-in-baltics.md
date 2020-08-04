@@ -86,9 +86,9 @@ The display times out quickly (10 seconds or even less),
 and so you either rush towards the bloody charger, or you need someone else
 to press the bloody touchscreen. If you don't, the session will time out, charging
 won't start but 80€ will still be blocked on your credit card (even after 4 days
-the 80€ hasn't been unblocked on my account). I spent 30 minutes
-cursing and swearing like a sailor, until I remembered I have a RFID token from PlugSurfing,
-and then the charging was a breeze. 
+the 80€ hasn't been unblocked from my account). I spent 30 minutes
+cursing and swearing like a sailor until I remembered I have a RFID token from PlugSurfing -
+then the charging was a breeze. 
 
 [IONITY](https://ionity.eu) roams with CSDD chargers, but the price is not known.
 The Ionity app says that the charging costs 0,15€/min *with the e-mobi
