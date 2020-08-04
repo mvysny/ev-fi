@@ -132,11 +132,14 @@ places (even though they only host 1AC+1DC charger, so the reliability rating is
 PlugSurfing has currently no roaming in Poland.
 
 There are Tesla superchargers in Poland, but they're not close to the Lithuania
-borders. The closest one is a two stall in Warsaw, but it's located in a 5th level
-underground parking garage with tight space. Luckily there is a new one in Radom;
-there are additional superchargers planned in 2020, namely in Ostrow Mazowiecka.
-The Radom supercharger is a lifesaver, and the highway from Warsaw to
-Krakow is brand new, definitely a good route to take.
+borders. The closest one is a two stall in Warsaw, but it's located in a -5th level
+in an underground parking garage with tight space behind a boon, so I avoided this one.
+Luckily there is a new one in Radom;
+also there are additional superchargers planned in 2020, namely in Ostrow Mazowiecka.
+The Radom supercharger is a huge lifesaver and the highway from Augustow to Warsaw to
+Krakow is brand new, I definitely recommend you to take this route.
+Avoid the "Warsaw - Czestochowa - Katowice" route - the concrete blocks forming the
+road are totally destroyed, I was surprised that my wheels did not fell off.
 
 The [Orlen Charge](https://orlencharge.orlen.pl/#/portal/locations) is a free network
 of CCS, Type 2 and CHAdeMO chargers placed on Orlen gas pumps which comes handy
