@@ -57,15 +57,16 @@ Talinn and the price is horrible - 0,6€/kWh.
 
 If you do not have the RFID, or you don't have CHAdeMO port, or you can't charge for other reason,
 the best way is to
-to skip charging in Estonia and charge in Latvia, since it's just 200km from Talinn
-to Ainazi (Latvia border).
+to skip charging in Estonia and charge in Latvia, since it's just 200km from Tallinn
+to Ainazi (Latvia border); try stopping in Parnu though and charge for free
+if the charger is available.
 
 # Latvia
 
 [CSDD](https://www.csdd.lv/en/) is a national road maintenance authority that
 also owns chargers. They provide CCS, CHAdeMO and Type 2 AC charging.
 You can register at [e-mobi](https://portal.e-mobi.lv/lv/sakumlapa/) and download
-the Android App to charge.
+the Android App in order to charge.
 CSDD charging costs 0,15€/min with e-mobi, and 0,273€/min with PlugSurfing
 (quite a decent price, however do remember that you'll generally charge at the speed of
 35-40kW while still being billed by the minute).
@@ -92,12 +93,12 @@ and then the charging was a breeze.
 [IONITY](https://ionity.eu) roams with CSDD chargers, but the price is not known.
 The Ionity app says that the charging costs 0,15€/min *with the e-mobi
 app* - they do not say how much it will cost with the Ionity app!
-I'd therefore avoid using Ionity since they can basically add any kind of nifty charge on
+I therefore avoided using Ionity since they can basically add any kind of nifty charge on
 top.
 
 [PlugSurfing](https://www.plugsurfing.com/map) also roams with CSDD chargers but
-it's more expensive than e-mobi prices, at 0,273€/min. Reported to be working
-by a PlugShare user.
+it's more expensive than e-mobi prices, at 0,273€/min. Yet PlugSurfing's RFID was a lifesaver
+when the e-mobi app just wouldn't work with flaky internet connection.
 
 [Virta](https://virta.webapp.virtaglobal.com/) roams CSDD charging stations as well,
 but the price is even worse than when using PlugSurfing: 0,4€/min.
@@ -105,9 +106,8 @@ but the price is even worse than when using PlugSurfing: 0,4€/min.
 # Lithuania
 
 According to PlugShare and [this reddit thread](https://www.reddit.com/r/lithuania/comments/bqwn5f/electric_vehicle_charging/)
-there are state-owned and State Roads Directorate-operated chargers (LAKD) which are free to use, so
-it's preferable to use those. The station is non-networked:
-you should not need any RFID or any kind of registration,
+there are state-owned and State Roads Directorate-operated chargers (LAKD) which are free to use (verified by me).
+The station is non-networked: you do not need any RFID or any kind of registration,
 you should be simply able to connect and charge. If the charging doesn't start automatically,
 just touch the display, select the CCS connector and start charging.
 
@@ -135,7 +135,7 @@ There are Tesla superchargers in Poland, but they're not close to the Lithuania
 borders. The closest one is a two stall in Warsaw, but it's located in a 5th level
 underground parking garage with tight space. Luckily there is a new one in Radom;
 there are additional superchargers planned in 2020, namely in Ostrow Mazowiecka.
-Especially the Radom supercharger is a lifesaver, and the highway from Warsaw to
+The Radom supercharger is a lifesaver, and the highway from Warsaw to
 Krakow is brand new, definitely a good route to take.
 
 The [Orlen Charge](https://orlencharge.orlen.pl/#/portal/locations) is a free network
