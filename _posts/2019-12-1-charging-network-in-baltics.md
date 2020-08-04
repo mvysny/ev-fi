@@ -66,12 +66,34 @@ to Ainazi (Latvia border).
 also owns chargers. They provide CCS, CHAdeMO and Type 2 AC charging.
 You can register at [e-mobi](https://portal.e-mobi.lv/lv/sakumlapa/) and download
 the Android App to charge.
-CSDD charging costs 0,15€/min with e-mobi, and 0,273€/min with PlugSurfing (quite a decent price).
+CSDD charging costs 0,15€/min with e-mobi, and 0,273€/min with PlugSurfing
+(quite a decent price, however do remember that you'll generally charge at the speed of
+35-40kW while still being billed by the minute).
+
+I highly recommend getting a RFID token to activate the charger: in the worst
+case you can get one from PlugSurfing. Charging via the e-mobi app is a lengthy
+process (especially when combined with a verification procedure with Finnish S-Pankki)
+and requires a solid internet connection, otherwise you will spend your time watching
+a progress indicator rotating in the e-mobi app.
+
+For example the internet connectivity
+coverage of the [Vitrupe](https://www.plugshare.com/location/156536) charger is so weak
+you have to generally walk towards the main road to actually get a GSM signal.
+Even if you manage to pay for your charging session, you will need to
+touch the CCS adapter icon on the charger's touchscreen in order to actually charge.
+The display times out quickly (10 seconds or even less),
+and so you either rush towards the bloody charger, or you need someone else
+to press the bloody touchscreen. If you don't, the session will time out, charging
+won't start but 80€ will still be blocked on your credit card (even after 4 days
+the 80€ hasn't been unblocked on my account). I spent 30 minutes
+cursing and swearing like a sailor, until I remembered I have a RFID token from PlugSurfing,
+and then the charging was a breeze. 
 
 [IONITY](https://ionity.eu) roams with CSDD chargers, but the price is not known.
 The Ionity app says that the charging costs 0,15€/min *with the e-mobi
-app*! I'd therefore avoid using Ionity since they can basically add a nifty charge on
-top of that.
+app* - they do not say how much it will cost with the Ionity app!
+I'd therefore avoid using Ionity since they can basically add any kind of nifty charge on
+top.
 
 [PlugSurfing](https://www.plugsurfing.com/map) also roams with CSDD chargers but
 it's more expensive than e-mobi prices, at 0,273€/min. Reported to be working
@@ -84,9 +106,10 @@ but the price is even worse than when using PlugSurfing: 0,4€/min.
 
 According to PlugShare and [this reddit thread](https://www.reddit.com/r/lithuania/comments/bqwn5f/electric_vehicle_charging/)
 there are state-owned and State Roads Directorate-operated chargers (LAKD) which are free to use, so
-it's preferable to use those. The station is reportedly non-networked:
+it's preferable to use those. The station is non-networked:
 you should not need any RFID or any kind of registration,
-you should be simply able to connect and charge.
+you should be simply able to connect and charge. If the charging doesn't start automatically,
+just touch the display, select the CCS connector and start charging.
 
 Alternatively there are paid chargers run by Renerga; the one in Klaipeda I found
 can be activated using the Virta app for 0,25€/min.
@@ -117,9 +140,11 @@ The [Orlen Charge](https://orlencharge.orlen.pl/#/portal/locations) is a free ne
 of CCS, Type 2 and CHAdeMO chargers placed on Orlen gas pumps which comes handy
 especially in Krakow since there are installed on six pumps. The
 [Orlen Charge Android app](https://play.google.com/store/apps/details?id=pl.orlen.charge)
-wouldn't install on my phone though.
+wouldn't install on my phone, but I was able to charge via the
+[Orlen Charge](https://orlencharge.orlen.pl/#/portal/locations) web page.
 
 Surprisingly [Fortum Charge&Drive](https://map.chargedrive.com/en/) has a charger
 in Warsaw and Krakow, you might try those out.
 
-There's also GoNet EV CPMS network in Krakow, but the charging app looks weird :-)
+There's also GoNet EV CPMS network in Krakow, but the charging app looks weird,
+and so I would not trust my credit card data to such an app.
