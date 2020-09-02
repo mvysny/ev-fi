@@ -9,9 +9,9 @@ Long story short - after much searching I've finally found out that
 Nissan Leaf uses M12 1,25 lug nuts; you can buy spare for example from
 Biltema: [Wheel Nut Kit M12 x 1,25, 35mm, Art. 33-3305](https://www.biltema.fi/en-fi/car---mc/styling/exterior-styling/wheel-nuts-10-pcs-2000019355).
 
-## Tighting lug nuts
+## Tightening the lug nuts
 
-The tightening torque is 112 NM; I recommend to get a proper torque spanner
+The tightening torque is 112 NM; I recommend getting a proper torque spanner
 such as [Momenttiavain 70-350 NM](https://www.biltema.fi/tyokalut/kasityokalut/hylsytyokalut/momenttiavaimet/momenttiavain-70-350-nm-2000030634).
 
 ## Jacking
