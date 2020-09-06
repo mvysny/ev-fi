@@ -3,6 +3,9 @@ layout: post
 title: Nissan Leaf 2015 S - general maintenance
 ---
 
+This article shows tips for maintenance of various car parts: replacing windshield
+wipers, spare lug nuts, how to jack the car, etc.
+
 ## Spare wheel lug nuts
 
 Long story short - after much searching I've finally found out that
