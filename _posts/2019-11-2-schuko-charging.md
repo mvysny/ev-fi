@@ -32,7 +32,7 @@ However, drawing 13A (2,8kW) or less from Schuko is completely fine for as long 
 
 ## Charging Speeds
 
-You can charge at 13A from Schuko as long as you want, but ONLY IF ALL of the following is met:
+You can charge at 13A from Schuko for as long as you want, but ONLY IF ALL of the following is met:
 
 1. You know for sure that the fuse is 16A,
 2. The building has been built in the year 2000 at the latest (so that the wiring is new),
