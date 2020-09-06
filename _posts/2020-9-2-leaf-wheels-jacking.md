@@ -9,6 +9,10 @@ Long story short - after much searching I've finally found out that
 Nissan Leaf 2015 uses M12 1,25 lug nuts; you can buy spare for example from
 Biltema: [Wheel Nut Kit M12 x 1,25, 35mm, Art. 33-3305](https://www.biltema.fi/en-fi/car---mc/styling/exterior-styling/wheel-nuts-10-pcs-2000019355).
 
+Note that the replacement lug nuts only work with the steel rims originally bundled
+with the car; if you bought aluminium or other custom rims you need to shop
+there for spare lug nuts.
+
 ## Tightening the lug nuts
 
 The tightening torque is 112 NM; I recommend getting a proper torque spanner
