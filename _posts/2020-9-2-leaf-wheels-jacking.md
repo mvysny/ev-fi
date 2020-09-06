@@ -33,16 +33,18 @@ P205/55 R16
 
 ## Windshield replacement
 
-* Rear windshield: 250mm; I bought Bosch Rear H250 wiper (TODO where)
+* Rear windshield: 250mm; I bought [Bosch Rear H250 wiper in Motonet](https://www.motonet.fi/fi/tuote/129580/Bosch-H250-takalasinpyyhin-25-cm);
+  for replacement hint see the [Nissan Windshield replacement video](https://www.youtube.com/watch?v=QDfQ0MzSZtE)
 * Front windshield:
-   * Driver: 650mm Hybrid (UNVERIFIED)
-   * Passenger: 400mm Hybrid (UNVERIFIED)
+   * Driver's side: 650mm Hybrid; I bought [Bosch AeroTwin Retrofit AR26U/AR650U in Motonet](https://www.motonet.fi/fi/tuote/120192/Bosch-AeroTwin-RetroFit-AR26U--AR650U-tuulilasinpyyhin-65-cm)
+   * Passenger: 400mm Hybrid; I bought [Bosch AeroTwin RetroFit AR 16 U / AR 400 U in Motonet](https://www.motonet.fi/fi/tuote/120184/Bosch-AeroTwin-RetroFit-AR16U--AR400U-tuulilasinpyyhin-40-cm).
+     The page also links to a video showing how to replace the wiper.
 
 Where to buy them:
 
 * [Biltema: Nissan Leaf Wiper Blades](https://www.biltema.fi/en-fi/search-page/?query=wiper%20blade%20nissan%20leaf)
   but they're frequently out-of-stock
-* TODO where else? Prisma? K-Rauta? Kodin Terra?
+* Motonet stacks the good quality Bosch wipers - I recommend shopping for windshield wipers there.
 
 ## Technical Data
 
@@ -65,6 +67,3 @@ Where to buy them:
 * Plant State:Tennessee
 * Plant City:Smyrna
 * Battery capacity: 24kWh
-
-
-
