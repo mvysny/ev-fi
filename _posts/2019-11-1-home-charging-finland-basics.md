@@ -185,3 +185,6 @@ Charging full speed at 16A sounded like a recipe for disaster. I had to think of
 *However, if only the fast charger option works for you, then don't buy the cheapest Leaf*.
 You absolutely need a car that can fast-change at decent speed on a fast charger.
 
+## More Info
+
+* [STEK: Miten ja missä sähköauto ladataan](https://stek.fi/energiatehokkuutta-sahkolla/sahkoautoilu)
