@@ -14,7 +14,7 @@ plan to find alternative charger.
   make sure you have at least 15%-20% battery left to reach next charger if the current one
   is broken or occupied.
 * If the DC charger is broken, try to call the phone number on the charger. There is
-  now EU-wide roaming so the calls are generally cheap; the support should speak English
+  now EU-wide roaming so the calls are generally cheap; the call support should speak English
   and may be able to reboot the charger remotely, fixing the issue.
 * If the DC charger is occupied and you can not wait, try to find nearest
   charging station via [PlugShare](https://www.plugshare.com/)
@@ -24,7 +24,7 @@ plan to find alternative charger.
   alternative chargers around.
   
 From my experience all chargers worked (none were broken) and were mostly unoccupied;
-only in 1/5 of times the chargers were occupied and I had to wait 15 minutes.
+only in 1/5 of times the chargers were occupied and I had to wait 15 minutes on average.
 
 ## Tesla Superchargers
 
@@ -41,25 +41,25 @@ user community and thus keeps most up-to-date charger map.
 operates a large network of chargers
 in Estonia, basically covering entire country. The DC speed is 50kW and the prices are as follows:
 
-* DC: 50kW CHAdeMO 0,24 €/kWh; after 60 min 0.1 €/min penalty is charged.
+* DC Type 1: 50kW CHAdeMO 0,24 €/kWh; after 60 min 0.1 €/min penalty is charged.
 * AC: 22kW Type 2 0,22 €/kWh; after 180 min 0.05 €/min penalty is charged.
 
-WARNING: Volt chargers do not provide CCS connectors - they only offer
-CHAdeMO and Type 2 AC-only for slow 22kW charging.
-So for example for Model 3 you'll either need a CHAdeMO adapter (I'm not sure whether such
-even exists), or charge from Type 2 AC slowly at 11kW speed.
+WARNING: Volt chargers do not provide Type 2 CCS connectors - they only offer
+CHAdeMO and Type 1 CCS! Type 2 charging is AC-only 22kW, which is further limited
+down by your car. For example for Tesla Model 3 you'll either need a CHAdeMO adapter (I'm not sure whether such
+a thing even exists), or charge from Type 2 AC slowly at 11kW speed.
 
 [Virta](https://virta.webapp.virtaglobal.com/) operates/roams a couple of chargers in Estonia,
 and the one in Parnu is a 50kW free-to-use charger right next to a Hesburger -
-worth a stop.
+worth a stop. Often occupied by the local taxi drivers though.
 
 PlugSurfing shows no possible roaming. Shell Recharge only shows charger in Parnu and
 Talinn and the price is horrible - 0,6€/kWh.
 
 If you do not have the RFID, or you don't have CHAdeMO port, or you can't charge for other reason,
-the best way is to
-to skip charging in Estonia and charge in Latvia, since it's just 200km from Tallinn
-to Ainazi (Latvia border). However try stopping in Parnu and charge for free
+the best way is to charge up upfront, skip charging in Estonia and charge in Latvia;
+nearest charger in Latvia is just 200km from Tallinn
+(the Ainazi charger on Latvia borders). However, try stopping in Parnu and charge for free
 if the charger is available - if it is, you will be able to travel through Latvia
 and charge in Lithuania for free.
 
@@ -77,7 +77,7 @@ I highly recommend getting a RFID token to activate the charger: in the worst
 case you can get one from PlugSurfing. Charging via the e-mobi app is a lengthy
 process (especially when combined with a verification procedure with Finnish S-Pankki)
 and requires a solid internet connection, otherwise you will spend your time watching
-a progress indicator rotating in the e-mobi app.
+a progress indicator rotating in the e-mobi app and cursing.
 
 For example the internet connectivity
 coverage of the [Vitrupe](https://www.plugshare.com/location/156536) charger
@@ -122,6 +122,8 @@ No known roaming with PlugSurfing nor Shell Recharge.
 
 [IONITY](https://ionity.eu) is building three chargers close to Kaunas (or Panevezys, I can't remember).
 The price is an outrageous 0,79€/kWh, but could be life-saving if need be.
+Alternatively, you can try [ZSE Drive](https://zsedrive.sk) which allows you to
+charge on Ionity chargers, with a 24 hours flat rate of 39€/24h.
 
 # Poland
 
@@ -158,3 +160,19 @@ in Warsaw and Krakow, you might try those out.
 
 There's also GoNet EV CPMS network in Krakow, but the charging app looks weird,
 and so I would not trust my credit card data to such an app.
+
+# Slovakia
+
+You can charge via [GreenWay Slovakia](https://greenway.sk/): the price is
+a bit expensive 0,49€/kWh for 50kW DC.
+
+Cheaper option is to charge on ZSE chargers: [ZSE Drive](https://zsedrive.sk):
+either 0,39€/kWh for 50kW DC, or 0,49€/kWh for 175kW DC. Virta is able to roam
+on ZSE, but the price is always 0,5€/kWh so it's better to use the ZSE card.
+Interestingly, ZSE shares passwords with Virta: if you're registered with
+Virta and you register to ZSE, the e-mail with the password will never come,
+but the password from Virta will work (!).
+
+Another possibility would be to charge on Slovnaft chargers. The service is currently
+free of charge - just plug and charge, you don't need to register anywhere nor
+ask the staff for access.
