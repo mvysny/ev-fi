@@ -70,3 +70,21 @@ They're not that expensive; just remember you need two of those.
 
 See [Tesla 3 DIY](https://www.tesla.com/fi_FI/support/do-it-yourself-model-3?redirect=no)
 under "Raitisilmasuodattimien vaihtaminen" on how to change those.
+
+## Wall charger
+
+The [Tesla wall charger](https://shop.tesla.com/fi_fi/product/hopeanvarinen-seinaliitin)
+is the cheapest and best on the market. However, don't forget that:
+
+1. A certified electrician needs to install it; the price of such installation can
+   go up to 500 EUR (tax-deductible).
+2. The Tesla wall charger doesn't have its own RCD fuse and you need to pay 200-300 EUR
+   for a standalone RCD/RCCB fuse. See [Home Charging in Finland: Basics](../home-charging-finland-basics/)
+   for more details.
+
+## Tow Hitch
+
+No idea. I can't see it being sold in [Finland Tesla Shop](https://shop.tesla.com/fi_fi/category/ajoneuvon-lisavarusteet/model-3),
+but there are third-party vendors which do. However, one UK forum suggested
+that Tesla sells tow hitch in Europe and using third-party could void your warranty,
+so it's definitely better to verify this with the Tesla shop.

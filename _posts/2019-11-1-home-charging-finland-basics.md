@@ -79,9 +79,14 @@ option for city dwellers which typically live in a block of flats and often has 
 
 ### Charging At Home From a Wall Charger
 
-Safest option, however not the cheapest one.
-You need to pay 650 EUR for the cheapest wall charger (currently [Webasto Pure](https://www.finnparttia.fi/WEBASTO-16-latausasema); Tesla Wall charger is cheaper at 500 EUR but it requires
-some kind of a RCD thingy DC leakage protection fuse which costs around 200-300EUR; Webasto has the RCD thingy built-in) and 500 EUR for an electrician to install it properly.
+Safest option, however not the cheapest one. Before shopping, remember that
+the wall charger either needs to have a RCD/RCCB fuse integrated, otherwise
+you'll need to pay an electrician to purchase one for you (200-300 EUR).
+
+The cheapest wall charger is [Webasto Pure](https://www.finnparttia.fi/WEBASTO-16-latausasema)
+which goes for 650 EUR and contains the RCD/RCCB fuse integrated.
+The Tesla Wall charger is cheaper at 500 EUR but it has no RCD/RCCB fuse built-in.
+On top of that you need to pay roughly 500 EUR for a certified electrician to install the charger properly.
 
 The Wall Charger is very safe since it's connected directly to the wires. A friend of mine used to charge from Schuko until he found the Schuko
 plug one day completely black, as it heated up because of fast electricity draw and started to burn (even though there were no flames).
