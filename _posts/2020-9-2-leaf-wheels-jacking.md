@@ -66,6 +66,18 @@ the page doesn't seem to recognize Leaf 2015 anymore.
 * The AR stands for "AEROTWIN Upgrade" whatever that is,
 * The U stands probably for Hybrid, or god knows what.
 
+## 12V battery
+
+Check out this [youtube video on replacing the 12v battery in nissan leaf 2014](https://www.youtube.com/watch?v=sS3ssRpJYdg).
+
+TODO verify: US-made Nissan Leaf 2014 battery group is 51R; the dimensions should be 238 x 129 x 223 mm. Make sure to pay attention to R which says that
+the positive terminal is to the **right**.
+
+The battery CCA is 450 which gives the Ah rating of 38 according to [BatteryEquivalents Group 51 and 51R](https://www.batteryequivalents.com/group-51-and-51r-batteries-dimensions-features-and-recommendations.html).
+
+The proper replacement is probably this [BATTERY SMF 12V 45AH](https://www.biltema.fi/en-fi/car---mc/car-spares/electrical-system/car-batteries/battery-smf-12v-45ah-2000029829) -
+TODO verify.
+
 ## Technical Data
 
 * Manufacturer:Nissan Motor Mfg Corp USA
