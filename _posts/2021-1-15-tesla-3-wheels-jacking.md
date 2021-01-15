@@ -8,7 +8,7 @@ wipers, spare lug nuts, how to jack the car, etc.
 
 ## Do It Yourself
 
-Make sure to read the [Tesla Model 3 Do It Yourself](https://www.tesla.com/fi_FI/support/do-it-yourself-model-3?redirect=no)
+Make sure to read the [Tesla Model 3 Do It Yourself](https://www.tesla.com/support/do-it-yourself-model-3?redirect=no)
 guide for lots of great tips.
 
 ## Spare wheel lug nuts
@@ -68,7 +68,7 @@ It's recommended to change the cabin filters every 2 years.
 You can get [Tesla 3 Cabin Filters from the Finland Tesla Shop](https://shop.tesla.com/fi_fi/product/model-3_n-ilmansuodatin).
 They're not that expensive; just remember you need two of those.
 
-See [Tesla 3 DIY](https://www.tesla.com/fi_FI/support/do-it-yourself-model-3?redirect=no)
+See [Tesla 3 DIY](https://www.tesla.com/support/do-it-yourself-model-3?redirect=no)
 under "Raitisilmasuodattimien vaihtaminen" on how to change those.
 
 ## Wall charger
