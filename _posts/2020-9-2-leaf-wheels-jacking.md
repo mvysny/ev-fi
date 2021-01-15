@@ -20,6 +20,7 @@ there for spare lug nuts.
 
 The tightening torque is 112 NM; I recommend getting a proper torque spanner
 such as [Momenttiavain 70-350 NM](https://www.biltema.fi/tyokalut/kasityokalut/hylsytyokalut/momenttiavaimet/momenttiavain-70-350-nm-2000030634).
+The socket size is 21".
 
 ## Jacking
 
@@ -31,20 +32,26 @@ What's totally weird is that I've failed to buy pinch rail jack adapter in Finla
 The Nissan dealership, Motonet and also Fixus simply told me that it's not being
 sold in Finland, and that I should simply jack the car and risk twisting of the pinch rail.
 Probably everyone simply uses a hockey puck or similar. The best thing
-is therefore to order a pinch rail jack adapter from AliExpress or Amazon and have
-it delivered to Finland.
+might be to order a pinch rail jack adapter from AliExpress or Amazon and have
+it delivered to Finland, but that could be rather expensive.
+
+I tried to order something from AliExpress, but the rubber is not strong enough:
+it twists and bends almost to the point of the car falling off the jack stand.
+
+I ultimately purchased one from [Biltema's Jack Pad](https://www.biltema.fi/autoilu---mp/korjaamovarusteet/nostotyokalut/tunkit/jack-pad-2000017051)
+and a couple of hockey pucks - looks to be working the best.
 
 ## Tyres
 
 P205/55 R16
 
-## Windshield replacement
+## Windshield wiper replacement
 
-* Rear windshield: 250mm; I bought [Bosch Rear H250 wiper in Motonet](https://www.motonet.fi/fi/tuote/129580/Bosch-H250-takalasinpyyhin-25-cm);
+* Rear windshield wiper: 250mm; I bought [Bosch Rear H250 wiper in Motonet](https://www.motonet.fi/fi/tuote/129580/Bosch-H250-takalasinpyyhin-25-cm);
   for replacement tutorial see the [Nissan Windshield replacement video](https://www.youtube.com/watch?v=QDfQ0MzSZtE)
-* Front windshield:
-   * Driver's side: 650mm Hybrid; I bought [Bosch AeroTwin Retrofit AR26U/AR650U in Motonet](https://www.motonet.fi/fi/tuote/120192/Bosch-AeroTwin-RetroFit-AR26U--AR650U-tuulilasinpyyhin-65-cm)
-   * Passenger: 400mm Hybrid; I bought [Bosch AeroTwin RetroFit AR 16 U / AR 400 U in Motonet](https://www.motonet.fi/fi/tuote/120184/Bosch-AeroTwin-RetroFit-AR16U--AR400U-tuulilasinpyyhin-40-cm).
+* Front windshield wipers:
+   * Driver's side: 650mm/26" Hybrid; I bought [Bosch AeroTwin Retrofit AR26U/AR650U in Motonet](https://www.motonet.fi/fi/tuote/120192/Bosch-AeroTwin-RetroFit-AR26U--AR650U-tuulilasinpyyhin-65-cm)
+   * Passenger: 400mm/16" Hybrid; I bought [Bosch AeroTwin RetroFit AR 16 U / AR 400 U in Motonet](https://www.motonet.fi/fi/tuote/120184/Bosch-AeroTwin-RetroFit-AR16U--AR400U-tuulilasinpyyhin-40-cm).
      The page also links to a video showing how to replace the wiper.
 
 Where to buy them:
@@ -52,6 +59,12 @@ Where to buy them:
 * [Biltema: Nissan Leaf Wiper Blades](https://www.biltema.fi/en-fi/search-page/?query=wiper%20blade%20nissan%20leaf)
   but they're frequently out-of-stock
 * Motonet stacks the good quality Bosch wipers - I recommend shopping for windshield wipers there.
+
+I've discovered the wiper exact part types via [Bosch Wiper Blade finder](https://www.boschwiperblades.com/)
+which will find AR26U and AR16U exactly as above. You need to put Nissan Leaf 2018 there since
+the page doesn't seem to recognize Leaf 2015 anymore.
+* The AR stands for "AEROTWIN Upgrade" whatever that is,
+* The U stands probably for Hybrid, or god knows what.
 
 ## Technical Data
 
