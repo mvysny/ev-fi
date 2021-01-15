@@ -100,13 +100,15 @@ site - you'll find lots of those chargers at very friendly prices.
 1. Make sure that the charger-to-extension-cord connection point is not just lying on the ground.
    Even when protected with Suojakotelo, it will short when a water puddle is formed because of rain. Put it on high ground, or cover it;
    only leave it lying on ground when there is no way for a water puddle to form.
-2. You should attach the cables to the wall with [ruuvikiinnike](https://www.k-rauta.fi/rautakauppa/ruuvikiinnike-thorsman-tcs-c3-10-14-v-100kpl). That way,
+2. You should attach the cables to the wall with [ruuvikiinnike](https://www.k-rauta.fi/etsi?query=ruuvikiinnike). That way,
   the cables won't simply lie around for you to kick them away. Also they will support the extension cord so that it won't simply hang with its entire weight on the Schuko
   plug and won't create mechanical stress on the Schuko plug.
-3. You should firmly attach the portable car charger to the wall as well with screws.
-   Then you can either hang the charging cable on one or two [seinakoukku](https://www.biltema.fi/tyokalut/tyokalujen-sailyttaminen/tyokalupitimet/seinakoukku-2000023075)
+3. You should firmly attach the portable car charger to the wall with screws.
+4. Then you can either hang the charging cable on one or two [seinakoukku](https://www.biltema.fi/tyokalut/tyokalujen-sailyttaminen/tyokalupitimet/seinakoukku-2000023075)
    hooks attached to a wall, or just roll it around a Car Heater Plug Box.
-4. When charging for the first time: after 2 hours of charging check all three connection points with your bare hand that everything is cool.
+   Or even better, there's a blue plastic hanger for electric wires sold at Bauhaus.fi
+   which works the best with charger cables.
+5. When charging for the first time: after 2 hours of charging check all three connection points with your bare hand that everything is cool.
    Make sure to check all three connection points: the extension cord-to-schuko, the schuko plug itself, and the charger-to-extension-cord.
    If they are clearly warm, stop the charging immediately and replace them.
 
