@@ -38,7 +38,7 @@ it delivered to Finland, but that could be rather expensive.
 I tried to order something from AliExpress, but the rubber is not strong enough:
 it twists and bends almost to the point of the car falling off the jack stand.
 
-I ultimately purchased one from [Biltema's Jack Pad](https://www.biltema.fi/autoilu---mp/korjaamovarusteet/nostotyokalut/tunkit/jack-pad-2000017051)
+I ultimately purchased [Biltema's Jack Pad](https://www.biltema.fi/autoilu---mp/korjaamovarusteet/nostotyokalut/tunkit/jack-pad-2000017051)
 and a couple of hockey pucks - looks to be working the best.
 
 ## Tyres
