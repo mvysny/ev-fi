@@ -88,3 +88,17 @@ No idea. I can't see it being sold in [Finland Tesla Shop](https://shop.tesla.co
 but there are third-party vendors which do. However, one UK forum suggested
 that Tesla sells tow hitch in Europe and using third-party could void your warranty,
 so it's definitely better to verify this with the Tesla shop.
+
+## 12V battery
+
+See [Youtube video on how to swap Model 3 12v battery correctly](https://www.youtube.com/watch?v=76PtZPF-Dvo).
+
+According to [Tesla US Battery Specs](https://teslatap.com/articles/12-volt-battery-compendium/) Model 3 uses 45Ah AGM battery;
+positive terminal on the right side.
+
+TODO verify according to [repro-team](http://www.repro-team-hs.de/128-tesla-model-3-12v-bilbatteri-atlasbx-85b24ls-12v-45ah-20hr-713.html) page
+the correct replacement battery is [Biltema 80-700 70Ah 760 EN AGM battery](https://www.biltema.fi/autoilu---mp/auton-varaosat/sahkojarjestelma/akut/agm-akku-70-ah-2000029872)
+which is of size 275 x 174 x 190 mm. Other batteries:
+
+* [Exide EK700 70Ah/760A akku P278xL175xK190 AGM](https://www.motonet.fi/fi/tuote/909527/Exide-EK700-70Ah760A-akku-P278xL175xK190)
+
