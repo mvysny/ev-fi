@@ -70,13 +70,16 @@ the page doesn't seem to recognize Leaf 2015 anymore.
 
 Check out this [youtube video on replacing the 12v battery in nissan leaf 2014](https://www.youtube.com/watch?v=sS3ssRpJYdg).
 
-TODO verify: US-made Nissan Leaf 2014 battery group is 51R; the dimensions should be 238 x 129 x 223 mm. Make sure to pay attention to R which says that
+US-made Nissan Leaf 2015 battery group is 51R; the dimensions should be 238 x 129 x 223 mm; the terminal connector diameter is 17mm. Make sure to pay attention to R which says that
 the positive terminal is to the **right**.
 
-The battery CCA is 450 which gives the Ah rating of 38 according to [BatteryEquivalents Group 51 and 51R](https://www.batteryequivalents.com/group-51-and-51r-batteries-dimensions-features-and-recommendations.html).
+The battery CCA is 410 which gives the Ah rating of ~38 according to [BatteryEquivalents Group 51 and 51R](https://www.batteryequivalents.com/group-51-and-51r-batteries-dimensions-features-and-recommendations.html) and 360 EN according to [CCA->EN Table](https://battery-service.com/support/cca/).
 
-The proper replacement is probably this [BATTERY SMF 12V 45AH](https://www.biltema.fi/en-fi/car---mc/car-spares/electrical-system/car-batteries/battery-smf-12v-45ah-2000029829) -
-TODO verify.
+In Finland here are proper replacements for the battery:
+* [BATTERY SMF 12V 45AH](https://www.biltema.fi/en-fi/car---mc/car-spares/electrical-system/car-batteries/battery-smf-12v-45ah-2000029829)
+* [Sznajder-Silver 45Ah/360A akku P237xL127xK225 -+](https://m.motonet.fi/fi/tuote/903009/Sznajder-Silver-45Ah360A-akku-P237xL127xK225--)
+* [Sznajder 45Ah/340A akku P237xL127xK225 -+](https://m.motonet.fi/fi/tuote/9054577/Sznajder-45Ah340A-akku-P237xL127xK225--)
+* [Exide EB454 45Ah/330A akku P237xL127xK227](https://m.motonet.fi/fi/tuote/909512/Exide-EB454-45Ah330A-akku-P237xL127xK227)
 
 ## Technical Data
 
