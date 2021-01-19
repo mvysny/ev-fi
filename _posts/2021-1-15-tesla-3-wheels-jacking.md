@@ -59,8 +59,9 @@ but is a bit more expensive.
 
 ## Paint repair kit
 
-Only sold in the US? There's [Paint repair kit at the US Tesla Shop](https://shop.tesla.com/product/paint-repair-kit),
+Only sold in the US. There's [Paint repair kit at the US Tesla Shop](https://shop.tesla.com/product/paint-repair-kit),
 but there's no such thing in [Finland Tesla Shop](https://shop.tesla.com/fi_fi/category/ajoneuvon-lisavarusteet/model-3).
+The reason is that the paint repair kit is missing a CE-approval and thus not allowed in EU.
 
 ## Cabin filters
 
