@@ -42,7 +42,7 @@ You can charge at 13A from Schuko for as long as you want, but ONLY IF ALL of th
 
 * If anything of the above is not met, charge at 10A at most.
 * If the wiring is older or the fuse is just 10A, charge at most at 8A.
-  (this is also the [recommended charging speed by Caruna](https://www.caruna.fi/palvelut/omat-sahkoasiat/sahkoauton-lataus).
+  (this is also the [recommended charging speed by Caruna](https://www.caruna.fi/palvelut/omat-sahkoasiat/sahkoauton-lataus)).
 * If the fuse is just 10A and there may be other appliances drawing power, charge at 6A.
 
 In order to charge your car at the above-mentioned speeds, you need two things:
