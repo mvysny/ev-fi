@@ -21,9 +21,9 @@ the [Wolttinen XL Wallbox 16 A 3-vaihe 11KW](https://autonlataus.com/collections
 station for ~500 EUR, and the installation work for 300 EUR, which is an excellent price.
 
 The big question left open is whether my fuse box is compatible with 3-phase
-charging station. The virtane.fi allows you to take pictures of the fuse box,
-wirings and the installation site however, which allows the vendor to take a look
-beforehand and calculate the installation price beforehand.
+charging station. The virtane.fi however allows you to take pictures of the fuse box,
+the wirings, and the installation site, which allows the vendor to take a look
+beforehand and modify the installation price accordingly.
 
 I haven't made offer to the guys just yet, but I'll post more once I'll get
 any updates.
