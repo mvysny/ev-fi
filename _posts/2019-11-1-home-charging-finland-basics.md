@@ -105,7 +105,7 @@ charging with 1-phase 32A 220V is not possible since the fuse can only handle 25
 that there are other appliances connected to that phase as well.
 
 Therefore, the safest speed is 3,3kW (or 5,2kW when 3-phase is used; then the charger would
-use 3*8A*220V which leaves 25A-8A=17A for other appliances).
+use 3 x 8A x 220V which leaves 25A-8A=17A for other appliances, should be more than enough).
 You need to decide whether you want to pay ~1000-1500 EUR for increased charging speed
 and safety, or achieve cheaply 1,7kW charging speed (about 10km of range per hour gained)
 with the mobile charger and Schuko. At first I went with the Schuko option,
