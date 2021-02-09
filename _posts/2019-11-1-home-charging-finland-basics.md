@@ -98,14 +98,20 @@ cars can handle 22kW AC. For example Tesla Model 3 can handle only 11kW AC, even
 The problem is that the battery charges with DC and thus the car needs an on-board AC->DC converter.
 More powerful converters are more expensive, bigger and heavier.
 
-Wall Chargers however do not make much sense for a small house. At 6,6kW speed (32A at 220V) you'll need a special 40A fuse or a
+Wall Chargers however may not make much sense for a small house. At 6,6kW speed (32A at 220V) you'll need a special 40A fuse or a
 3-phase plug, which is very expensive to install. Since
 typical Finnish house is connected to the mains with 3-phases * 25A fuse per each phase,
 charging with 1-phase 32A 220V is not possible since the fuse can only handle 25A and would trip; not to mention
-that there are other applicances connected to that phase as well.
+that there are other appliances connected to that phase as well.
 
-Therefore, the safest speed is 3,3kW. Since you can easily and cheaply achieve 2,6kW charging speed (about 20km of range per hour gained)
-with the mobile charger and Schuko, I went with the Schuko option.
+Therefore, the safest speed is 3,3kW (or 5,2kW when 3-phase is used; then the charger would
+use 3*8A*220V which leaves 25A-8A=17A for other appliances).
+You need to decide whether you want to pay ~1000-1500 EUR for increased charging speed
+and safety, or achieve cheaply 1,7kW charging speed (about 10km of range per hour gained)
+with the mobile charger and Schuko. At first I went with the Schuko option,
+but now I'm toying with the idea of having a proper charger installed; see
+[Home Charging in Finland - Revisited](../home-charging-finland-revisited/)
+for more details.
 
 ### Charging From The Car Heater Plug Box
 
