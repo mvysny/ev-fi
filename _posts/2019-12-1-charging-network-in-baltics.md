@@ -123,16 +123,12 @@ can be activated using the Virta app for 0,25€/min.
 
 No known roaming with PlugSurfing nor Shell Recharge.
 
-[IONITY](https://ionity.eu) operates three chargers in Lithuania.
-The price is an outrageous 0,79€/kWh, but could be life-saving if need be.
-Alternatively, you can try [ZSE Drive](https://zsedrive.sk) which allows you to
-charge on Ionity chargers, with a 24 hours flat rate of 39€/24h. See below
-for tips on how to register.
+[IONITY](https://ionity.eu) operates three chargers in Lithuania; see above for tips on how to charge.
 
 # Poland
 
 The biggest charging operator in Poland is [GreenWay Polska](https://greenwaypolska.pl/en/).
-The prices are expensive (0,49€ per kWh, with additional time-based penalty when charging more
+The prices are expensive (0,49€ per kWh on DC, with additional time-based penalty when charging more
 than 45/60 minutes), but there is no other operator. It's highly recommended
 to register with GreenWay, since it is the most common charging network in Poland
 and Slovakia by far.
@@ -157,7 +153,8 @@ especially in Krakow since there are installed on six pumps. You can use the
 [Orlen Charge Android app](https://play.google.com/store/apps/details?id=pl.orlen.charge),
 or you can charge via the
 [Orlen Charge](https://orlencharge.orlen.pl/#/portal/locations) web page.
-Definitely worth a stop.
+The prices are expensive: 0,45€ per kWh on DC, with additional time-based penalty when
+charging more than 45 minutes.
 
 Surprisingly [Fortum Charge&Drive](https://map.chargedrive.com/en/) has a charger
 in Warsaw and Krakow, you might try those out.
