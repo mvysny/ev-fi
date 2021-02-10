@@ -63,6 +63,13 @@ nearest charger in Latvia is just 200km from Tallinn
 if the charger is available - if it is, you will be able to travel through Latvia
 and charge in Lithuania for free.
 
+[IONITY](https://ionity.eu) is building two chargers in Estonia.
+The price is an outrageous 0,79€/kWh, but could be life-saving if need be.
+Alternatively, you can try [ZSE Drive](https://zsedrive.sk) which roams on Ionity chargers,
+with a 24 hours flat rate of 39€/24h. That's really interesting option since charging 100kWh during the 24-hour window will
+bring the price down to a reasonable 0,39€/kWh. See the "Slovakia" section
+for tips on how to register.
+
 # Latvia
 
 [CSDD](https://www.csdd.lv/en/) is a national road maintenance authority that
@@ -93,11 +100,7 @@ won't start but 80€ will still be blocked on your credit card (even after 4 da
 cursing and swearing like a sailor until I remembered I have a RFID token from PlugSurfing -
 then the charging was a breeze.
 
-[IONITY](https://ionity.eu) roams with CSDD chargers, but the price is not known.
-The Ionity app says that the charging costs 0,15€/min *with the e-mobi
-app* but *they do not say how much it will cost with the Ionity app*!
-I therefore avoided using Ionity since they can basically add any kind of nifty charge on
-top.
+[IONITY](https://ionity.eu) is building one charger; see above for tips on how to charge.
 
 [PlugSurfing](https://www.plugsurfing.com/map) also roams with CSDD chargers but
 it's more expensive than e-mobi prices, at 0,273€/min. Yet PlugSurfing's RFID was a lifesaver
@@ -120,10 +123,11 @@ can be activated using the Virta app for 0,25€/min.
 
 No known roaming with PlugSurfing nor Shell Recharge.
 
-[IONITY](https://ionity.eu) is building three chargers close to Kaunas (or Panevezys, I can't remember).
+[IONITY](https://ionity.eu) operates three chargers in Lithuania.
 The price is an outrageous 0,79€/kWh, but could be life-saving if need be.
 Alternatively, you can try [ZSE Drive](https://zsedrive.sk) which allows you to
-charge on Ionity chargers, with a 24 hours flat rate of 39€/24h.
+charge on Ionity chargers, with a 24 hours flat rate of 39€/24h. See below
+for tips on how to register.
 
 # Poland
 
@@ -142,16 +146,16 @@ borders. The closest one is a two stall in Warsaw, but it's located in a -5th le
 in an underground parking garage with tight space behind a boon, so I avoided this one.
 Luckily there is a new one in Radom;
 also there are additional superchargers planned in 2020, namely in Ostrow Mazowiecka.
-The Radom supercharger is a huge lifesaver and the highway from Augustow to Warsaw to
-Krakow is brand new, I definitely recommend you to take this route.
+The Radom supercharger is a huge lifesaver, and the highway from Augustow to Warsaw to
+Krakow is brand new; I definitely recommend you to take this route.
 Avoid the "Warsaw - Czestochowa - Katowice" route - the concrete blocks forming the
 road are completely destroyed, I was surprised that my wheels did not fell off.
 
-The [Orlen Charge](https://orlencharge.orlen.pl/#/portal/locations) is a free network
+The [Orlen Charge](https://orlencharge.orlen.pl/#/portal/locations) is network
 of CCS, Type 2 and CHAdeMO chargers placed on Orlen gas pumps which comes handy
-especially in Krakow since there are installed on six pumps. The
-[Orlen Charge Android app](https://play.google.com/store/apps/details?id=pl.orlen.charge)
-wouldn't install on my phone, but I was able to charge via the
+especially in Krakow since there are installed on six pumps. You can use the
+[Orlen Charge Android app](https://play.google.com/store/apps/details?id=pl.orlen.charge),
+or you can charge via the
 [Orlen Charge](https://orlencharge.orlen.pl/#/portal/locations) web page.
 Definitely worth a stop.
 
