@@ -44,7 +44,7 @@ One way is to get the [official Tesla Model 3 wipers at the Tesla Shop](https://
 Alternatively, the [Bosch Aerotwin A102S](https://www.autodoc.fi/bosch/7882805) should work as well, according to [TeslaBjorn's video](https://youtu.be/gHe5wvxjFcI?t=601):
 * They're a pair of 650mm (26") and 475mm (19") wipers.
 
-There seem to be no alternatives sold in Finland:
+I found no other alternatives sold in Finland:
 * The [Tesla Model 3 Reddit thread](https://www.reddit.com/r/teslamotors/comments/e85ugt/tesla_model_3_demystifying_the_wiper_blades/)
   suggests getting Bosch Aerotwin 3397014116 but they don't appear to be sold in Finland.
 * The [Bosch Wiper Blade finder](https://www.boschwiperblades.com/) only seem to support
