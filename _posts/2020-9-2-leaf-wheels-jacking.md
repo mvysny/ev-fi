@@ -53,6 +53,7 @@ P205/55 R16
    * Driver's side: 650mm/26" Hybrid; I bought [Bosch AeroTwin Retrofit AR26U/AR650U in Motonet](https://www.motonet.fi/fi/tuote/120192/Bosch-AeroTwin-RetroFit-AR26U--AR650U-tuulilasinpyyhin-65-cm)
    * Passenger: 400mm/16" Hybrid; I bought [Bosch AeroTwin RetroFit AR 16 U / AR 400 U in Motonet](https://www.motonet.fi/fi/tuote/120184/Bosch-AeroTwin-RetroFit-AR16U--AR400U-tuulilasinpyyhin-40-cm).
      The page also links to a video showing how to replace the wiper.
+   * You can also buy both wipers as a pair: [Bosch AeroTwin Retro AR653S at Autodoc](https://www.autodoc.fi/bosch/1194314).
 
 Where to buy them:
 
