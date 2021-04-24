@@ -27,3 +27,9 @@ beforehand and modify the installation price accordingly.
 
 I haven't made offer to the guys just yet, but I'll post more once I'll get
 any updates.
+
+EDIT: There has been a development. Apparently Finland plans to pass laws to
+make certain number of charging spots mandatory for every housing company.
+My housing company is currently evaluating this - it may be so that
+the housing company itself will purchase and install the chargers. Stay tuned.
+
