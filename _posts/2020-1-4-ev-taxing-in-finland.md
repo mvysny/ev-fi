@@ -128,9 +128,11 @@ The exact inspection dates are: after 4 years, then every 2 years until the vehi
 
 Summing the above costs we can see that a yearly cost for an EV is:
 
-1. Nissan Leaf 2015: 163€ road taxes, 1484€ insurance, 224€ fuel cost per 10000km,
-   125€ car checkup, 20€ roadworthiness test: 2016€ per year.
-2. Tesla Model 3 SR+: 168€ road taxes, 2300€ insurance, 230€ fuel cost per 10000km,
-   150€ car checkup, 20€ roadworthiness test: 2868€ per year.
-3. Tesla Model 3 LR AWD: 168€ road taxes, 2400€ insurance, 252€ fuel cost per 10000km,
-   150€ car checkup, 20€ roadworthiness test: 2990€ per year.
+1. Nissan Leaf 2015: 163€ road taxes, 750€ insurance Kasko, 521€ mandatory motor insurance, 224€ fuel cost per 10000km,
+   125€ car checkup, 20€ roadworthiness test: 1803€ per year.
+2. Tesla Model 3 SR+: 168€ road taxes, 1200€ insurance Kasko (estimate),
+   485€ mandatory motor insurance, 230€ fuel cost per 10000km,
+   150€ car checkup, 20€ roadworthiness test: 2253€ per year.
+3. Tesla Model 3 LR AWD: 168€ road taxes, 1300€ insurance Kasko, 485€ mandatory motor insurance, 252€ fuel cost per 10000km,
+   150€ car checkup, 20€ roadworthiness test: 2375€ per year.
+
