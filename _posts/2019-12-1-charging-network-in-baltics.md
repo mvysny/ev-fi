@@ -165,7 +165,7 @@ and so I would not trust my credit card data to such an app.
 # Slovakia
 
 You can charge via [GreenWay Slovakia](https://greenway.sk/): the price is
-a bit expensive 0,49€/kWh for 50kW DC.
+a bit expensive 0,41€/kWh for 50kW DC.
 
 Cheaper option is to charge on ZSE chargers: [ZSE Drive](https://zsedrive.sk):
 either 0,39€/kWh for 50kW DC, or 0,49€/kWh for 175kW DC. Virta is able to roam
@@ -175,5 +175,6 @@ Virta and you register to ZSE, the e-mail with the password will never come,
 but the password from Virta will work (!).
 
 Another possibility would be to charge on Slovnaft chargers. The service is currently
-free of charge - just plug and charge, you don't need to register anywhere nor
+free of charge - just plug and charge: you don't need to register anywhere, you don't need to
 ask the staff for access.
+
