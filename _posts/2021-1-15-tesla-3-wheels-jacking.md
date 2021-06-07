@@ -41,7 +41,8 @@ Their spec is `235/45 ZR 18`. Alternatively you can get 19" and 20" as well.
 
 One way is to get the [official Tesla Model 3 wipers at the Tesla Shop](https://shop.tesla.com/fi_fi/product/model-3_n-tuulilasinpyyhkimen-sulat).
 
-Alternatively, the [Bosch Aerotwin A102S](https://www.autodoc.fi/bosch/7882805) should work as well, according to [TeslaBjorn's video](https://youtu.be/gHe5wvxjFcI?t=601):
+Alternatively, the [Bosch Aerotwin A102S](https://www.autodoc.fi/bosch/7882805) work really well,
+according to both my experience and the [TeslaBjorn's video](https://youtu.be/gHe5wvxjFcI?t=601):
 * They're a pair of 650mm (26") and 475mm (19") wipers.
 
 I found no other alternatives sold in Finland:
