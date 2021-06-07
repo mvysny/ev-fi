@@ -61,7 +61,7 @@ info on charging cost and charger accessibility.
 * Payments: you don't need any app/tag - the payments go directly to your Tesla account and
 to your credit card.
 * Charging speed: 120kW DC
-* Cost: 0,25€ per kWh: very good price
+* Cost: [0,34-0,39€ per kWh: good price](../tesla-supercharger-pricing-update/)
 * Reliability: great (usually 4-12 DC chargers on site)
 * Availability: decent, new chargers planned
 
