@@ -5,7 +5,7 @@ title: Tesla Supercharger Pricing - Update
 
 Okay, so apparently while I was not watching, Tesla silently increased the price
 of the charging. Previously there was a price table for the entire EU,
-usually an equivalent of 0,25€. Now, the price varies wildly country-by-country,
+usually an equivalent of 0,25€/kWh. Now, the price varies wildly country-by-country,
 and even supercharger-by-supercharger. For example:
 
 * In Finland, the price ranges from 0,33€/kWh to 0,39€/kWh (the 250kW Huittinen supercharger).
