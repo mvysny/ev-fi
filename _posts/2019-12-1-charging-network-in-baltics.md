@@ -128,7 +128,7 @@ No known roaming with PlugSurfing nor Shell Recharge.
 # Poland
 
 The biggest charging operator in Poland is [GreenWay Polska](https://greenwaypolska.pl/en/).
-The prices are expensive (0,49€ per kWh on DC, with additional time-based penalty when charging more
+The prices are a bit expensive (0,49€ per kWh on DC, with additional time-based penalty when charging more
 than 45/60 minutes), but there is no other operator. It's highly recommended
 to register with GreenWay, since it is the most common charging network in Poland
 and Slovakia by far.
@@ -146,6 +146,7 @@ The Radom supercharger is a huge lifesaver, and the highway from Augustow to War
 Krakow is brand new; I definitely recommend you to take this route.
 Avoid the "Warsaw - Czestochowa - Katowice" route - the concrete blocks forming the
 road are completely destroyed, I was surprised that my wheels did not fell off.
+Yet, the highway is being upgraded as of 2021 - in 2022+ this route may be viable.
 
 The [Orlen Charge](https://orlencharge.orlen.pl/#/portal/locations) is network
 of CCS, Type 2 and CHAdeMO chargers placed on Orlen gas pumps which comes handy
@@ -153,7 +154,7 @@ especially in Krakow since there are installed on six pumps. You can use the
 [Orlen Charge Android app](https://play.google.com/store/apps/details?id=pl.orlen.charge),
 or you can charge via the
 [Orlen Charge](https://orlencharge.orlen.pl/#/portal/locations) web page.
-The prices are expensive: 0,45€ per kWh on DC, with additional time-based penalty when
+The prices are a bit expensive: 0,45€ per kWh on DC, with additional time-based penalty when
 charging more than 45 minutes.
 
 Surprisingly [Fortum Charge&Drive](https://map.chargedrive.com/en/) has a charger
