@@ -20,5 +20,3 @@ nor anywhere else at the tesla.com pages.
 I mean, sure, those stalls and the accompanying battery and electronics are definitely
 not cheap, so a price increase is to be expected to cover the costs. Still, I'd expect the price list
 to be transparently available on a webpage somewhere.
-
-Not cool, Tesla.
