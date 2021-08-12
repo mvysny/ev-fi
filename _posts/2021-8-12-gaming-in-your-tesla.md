@@ -19,6 +19,9 @@ I've found the following controllers:
   works, but you must switch it to the "Direct Input" mode after you plug it in, by pressing the "Home" button
   for 5+ seconds until the third status LED from the left turns on. Beware: this controller
   doesn't work with the Cuphead game! It works with the Beach Buggy game and the Sky Force game though.
+  Still, I've returned this one to the store.
 * [8BitDo USB langaton adapteri](https://www.prisma.fi/fi/prisma/8bitdo-usb-langaton-adapteri) -
   untested by me but it should work with my existing PS3 controllers,
   according to [8BitDo wireless controllers are perfect for Tesla's multiplayer games](https://www.reddit.com/r/TeslaModel3/comments/dxtea4/8bitdo_wireless_controllers_are_perfect_for/).
+* [Xbox Series X|S Controller](https://www.power.fi/pelaaminen/xbox/xbox-ohjaimet/pdp-gaming-wired-controller-xbox-series-xxbox-one-peliohjain-valkoinen/p-1185152/) -
+  finally I've bought this one and all games seem to be working just fine with it.
