@@ -69,10 +69,11 @@ the page doesn't seem to recognize Leaf 2015 anymore.
 
 ## 12V battery
 
-Check out this [youtube video on replacing the 12v battery in nissan leaf 2014](https://www.youtube.com/watch?v=sS3ssRpJYdg).
+Check out this [youtube video on replacing the 12v battery in nissan leaf 2014](https://www.youtube.com/watch?v=sS3ssRpJYdg),
+and also [Why 12-Volt Batteries in Electric Cars Get Sick](https://www.youtube.com/watch?v=pu30bchGu50).
 
 US-made Nissan Leaf 2015 battery group is 51R; the dimensions should be 238 x 129 x 223 mm; the terminal connector diameter is 17mm. Make sure to pay attention to R which says that
-the positive terminal is to the **right**. (measured on my leaf: W=230mm, D=130mm, H=200mm, height including the terminal connectors = 220mm).
+the positive terminal is to the **right**. (measured on my leaf: W=230mm, D=123mm, H=200mm, height including the terminal connectors = 220mm).
 
 The battery CCA is 410 which gives the Ah rating of ~38 according to [BatteryEquivalents Group 51 and 51R](https://www.batteryequivalents.com/group-51-and-51r-batteries-dimensions-features-and-recommendations.html) and 360 EN according to [CCA->EN Table](https://battery-service.com/support/cca/).
 

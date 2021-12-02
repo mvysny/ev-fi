@@ -17,5 +17,5 @@ If you find these articles helpful and you're interested in buying Tesla,
 I'd be grateful if you used my referral code: [https://ts.la/martin92776](https://ts.la/martin92776).
 Thank you very much :)
 
-The original site located at "ev-fi.github.io" was moved to the new location at [https://mvysny.github.io/ev-fi/](https://mvysny.github.io/ev-fi/)
+The original site located at [https://ev-fi.github.io](https://ev-fi.github.io) was moved to the new location at [https://mvysny.github.io/ev-fi/](https://mvysny.github.io/ev-fi/)
 
