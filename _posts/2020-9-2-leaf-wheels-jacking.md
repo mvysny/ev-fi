@@ -84,11 +84,11 @@ In Finland here are proper replacements for the battery:
 * [Exide EB454 45Ah/330A akku P237xL127xK227](https://m.motonet.fi/fi/tuote/909512/Exide-EB454-45Ah330A-akku-P237xL127xK227)
 
 Beware: Nissan Leaf only charges its 12V battery when it's powered on and there's 14V coming from the traction battery,
-or when the traction battery is being charted.
+or when the traction battery is being charged.
 Therefore, leaving Nissan Leaf either powered off will NOT charge the 12V battery;
 Leaf will also stop charging 12V battery after it finished charging its main traction battery.
 Therefore, when you leave your Leaf charging for a month in a cold weather,
-it's possible to find the car with a dead 12V battery even though Leaf is connected
+it's possible to find the car with a dead 12V battery even though Leaf was connected
 to the charger for the whole time.
 
 ## Technical Data
