@@ -83,6 +83,8 @@ In Finland here are proper replacements for the battery:
 * [Sznajder 45Ah/340A akku P237xL127xK225 -+](https://m.motonet.fi/fi/tuote/9054577/Sznajder-45Ah340A-akku-P237xL127xK225--)
 * [Exide EB454 45Ah/330A akku P237xL127xK227](https://m.motonet.fi/fi/tuote/909512/Exide-EB454-45Ah330A-akku-P237xL127xK227)
 
+I've bought the "Sznajder Silver" battery from Motonet and it's working well.
+
 Beware: Nissan Leaf only charges its 12V battery when it's powered on and there's 14V coming from the traction battery,
 or when the traction battery is being charged.
 Therefore, leaving Nissan Leaf either powered off will NOT charge the 12V battery;
