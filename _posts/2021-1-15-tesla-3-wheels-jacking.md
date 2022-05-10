@@ -99,7 +99,7 @@ so it's definitely better to verify this with the Tesla shop.
 See [Youtube video on how to swap Model 3 12v battery correctly](https://www.youtube.com/watch?v=76PtZPF-Dvo).
 
 According to [Tesla US Battery Specs](https://teslatap.com/articles/12-volt-battery-compendium/) Model 3 uses 45Ah AGM battery;
-positive terminal on the right side. My 2020 Model 3 uses 45Ah 20HR 12 Battery with positive to the right; measured size is
+positive terminal on the right side. My 2020 Model 3 uses 45Ah 20HR 12V Battery with positive to the right; measured size is
 W230mm x D120mm x H cca 200mm (220mm including the terminals).
 
 Possible replacement battery (unverified):
