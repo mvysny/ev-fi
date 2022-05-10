@@ -100,9 +100,12 @@ See [Youtube video on how to swap Model 3 12v battery correctly](https://www.you
 
 According to [Tesla US Battery Specs](https://teslatap.com/articles/12-volt-battery-compendium/) Model 3 uses 45Ah AGM battery;
 positive terminal on the right side. My 2020 Model 3 uses 45Ah 20HR 12V Battery with positive to the right; measured size is
-W230mm x D120mm x H cca 200mm (220mm including the terminals).
+W230mm x D120mm x H cca 200mm (220mm including the terminals). Coincidentally that's the same battery which my Nissan Leaf uses.
 
 Possible replacement battery (unverified):
 
-* [Sznajder 45Ah/340A akku P237xL127xK225 -+](https://www.motonet.fi/fi/tuote/9054577/Sznajder-45Ah340A-akku-P237xL127xK225--)
+* [BATTERY SMF 12V 45AH](https://www.biltema.fi/en-fi/car---mc/car-spares/electrical-system/car-batteries/battery-smf-12v-45ah-2000029829)
+* [Sznajder-Silver 45Ah/360A akku P237xL127xK225 -+](https://m.motonet.fi/fi/tuote/903009/Sznajder-Silver-45Ah360A-akku-P237xL127xK225--)
+* [Sznajder 45Ah/340A akku P237xL127xK225 -+](https://m.motonet.fi/fi/tuote/9054577/Sznajder-45Ah340A-akku-P237xL127xK225--)
+* [Exide EB454 45Ah/330A akku P237xL127xK227](https://m.motonet.fi/fi/tuote/909512/Exide-EB454-45Ah330A-akku-P237xL127xK227)
 
