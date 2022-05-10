@@ -85,10 +85,14 @@ In Finland here are proper replacements for the battery:
 
 I've bought the "Sznajder Silver" battery from Motonet and it's working well.
 
-Beware: Nissan Leaf only charges its 12V battery when it's powered on and there's 14V coming from the traction battery,
-or when the traction battery is being charged.
-Therefore, leaving Nissan Leaf either powered off will NOT charge the 12V battery;
-Leaf will also stop charging 12V battery after it finished charging its main traction battery.
+Beware: Nissan Leaf only charges its 12V battery when:
+* It's powered on and there's 14V coming from the traction battery,
+* Or when the traction battery is being charged.
+
+Therefore, the 12V battery will NOT be charged when Leaf is:
+* powered off with charging cable unplugged, or
+* Leaf is done charging and is not charging anymore (e.g. after it charged its main traction battery to 100%)
+
 Therefore, when you leave your Leaf charging for a month in a cold weather,
 it's possible to find the car with a dead 12V battery even though Leaf was connected
 to the charger for the whole time.
