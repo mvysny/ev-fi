@@ -28,9 +28,10 @@ only in 1/5 of times the chargers were occupied and I had to wait 15 minutes on 
 
 ## Tesla Superchargers
 
-There are no Tesla superchargers in the Baltic states as of now (2019), neither there are any chargers
-above Warsaw in Poland. The superchargers are planned and should be erected in 2020,
-you can see the [official Tesla Supercharger Map](https://www.tesla.com/supercharger) to get more information.
+There are now Tesla superchargers in Poland (Krakow, Radom, Bialystok), yay!
+There's a supercharger in Kaunas as well, and there will hopefully be a new supercharger
+in Riga this year (2022), which means that the baltic route will completely be
+covered by superchargers. You can see the [official Tesla Supercharger Map](https://www.tesla.com/supercharger) to get more information.
 
 The [SuperCharge.info](https://supercharge.info/map) receives updates from Tesla
 user community and thus keeps most up-to-date charger map.
@@ -166,7 +167,7 @@ and so I would not trust my credit card data to such an app.
 # Slovakia
 
 You can charge via [GreenWay Slovakia](https://greenway.sk/): the price is
-a bit expensive 0,41€/kWh for 50kW DC.
+an okay 0,41€/kWh for 50kW DC.
 
 Cheaper option is to charge on ZSE chargers: [ZSE Drive](https://zsedrive.sk):
 either 0,39€/kWh for 50kW DC, or 0,49€/kWh for 175kW DC. Virta is able to roam

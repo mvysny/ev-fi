@@ -49,6 +49,7 @@ P205/55 R16
 
 * Rear windshield wiper: 250mm; I bought [Bosch Rear H250 wiper in Motonet](https://www.motonet.fi/fi/tuote/129580/Bosch-H250-takalasinpyyhin-25-cm);
   for replacement tutorial see the [Nissan Windshield replacement video](https://www.youtube.com/watch?v=QDfQ0MzSZtE)
+  * Or get [Bosch Rear H250 at Autodoc](https://www.autodoc.fi/bosch/7004599)
 * Front windshield wipers:
    * Driver's side: 650mm/26" Hybrid; I bought [Bosch AeroTwin Retrofit AR26U/AR650U in Motonet](https://www.motonet.fi/fi/tuote/120192/Bosch-AeroTwin-RetroFit-AR26U--AR650U-tuulilasinpyyhin-65-cm)
    * Passenger: 400mm/16" Hybrid; I bought [Bosch AeroTwin RetroFit AR 16 U / AR 400 U in Motonet](https://www.motonet.fi/fi/tuote/120184/Bosch-AeroTwin-RetroFit-AR16U--AR400U-tuulilasinpyyhin-40-cm).
