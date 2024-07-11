@@ -46,17 +46,11 @@ P205/55 R16
 
 * Rear windshield wiper: 350mm; I bought [BOSCH Twin Rear H 354 at Autodoc](https://www.autodoc.fi/bosch/1194143);
   for replacement tutorial see the [Nissan Windshield replacement video](https://www.youtube.com/watch?v=lTsL6_ILutM)
-* Front windshield wipers: TODO
+* Front windshield wipers:
    * Driver's side: 650mm/26" Hybrid; I bought [Bosch AeroTwin Retrofit AR26U/AR650U in Motonet](https://www.motonet.fi/fi/tuote/120192/Bosch-AeroTwin-RetroFit-AR26U--AR650U-tuulilasinpyyhin-65-cm)
    * Passenger: 400mm/16" Hybrid; I bought [Bosch AeroTwin RetroFit AR 16 U / AR 400 U in Motonet](https://www.motonet.fi/fi/tuote/120184/Bosch-AeroTwin-RetroFit-AR16U--AR400U-tuulilasinpyyhin-40-cm).
      The page also links to a video showing how to replace the wiper.
    * You can also buy both wipers as a pair: [Bosch AeroTwin Retro AR653S at Autodoc](https://www.autodoc.fi/bosch/1194314).
-
-Where to buy them: TODO
-
-* [Biltema: Nissan Leaf Wiper Blades](https://www.biltema.fi/en-fi/search-page/?query=wiper%20blade%20nissan%20leaf)
-  but they're frequently out-of-stock
-* Motonet stacks the good quality Bosch wipers - I recommend shopping for windshield wipers there.
 
 I've discovered the wiper exact part types via [Bosch Wiper Blade finder](https://www.boschwiperblades.com/)
 which will find AR26U and AR16U exactly as above. You need to put Nissan Leaf 2018 there since
@@ -66,23 +60,24 @@ the page doesn't seem to recognize Leaf 2015 anymore.
 
 ## 12V battery
 
-TODO
-
 Check out this [youtube video on replacing the 12v battery in nissan leaf 2014](https://www.youtube.com/watch?v=sS3ssRpJYdg),
 and also [Why 12-Volt Batteries in Electric Cars Get Sick](https://www.youtube.com/watch?v=pu30bchGu50).
 
-US-made Nissan Leaf 2015 battery group is 51R; the dimensions should be 238 x 129 x 223 mm; the terminal connector diameter is 17mm. Make sure to pay attention to R which says that
-the positive terminal is to the **right**. (measured on my leaf: W=230mm, D=123mm, H=200mm, height including the terminal connectors = 220mm).
-
-The battery CCA is 410 which gives the Ah rating of ~38 according to [BatteryEquivalents Group 51 and 51R](https://www.batteryequivalents.com/group-51-and-51r-batteries-dimensions-features-and-recommendations.html) and 360 EN according to [CCA->EN Table](https://battery-service.com/support/cca/).
+Nissan Leaf 2022 battery group is 12V - L1 50Ah 420A (EN) MF; the dimensions should be 204 x 170 x 190 mm; the terminal connector diameter is 17mm. Make sure to pay attention to R which says that
+the positive terminal is to the **right**. (measured on my leaf: W=170mm, L=204mm, H=190mm, height including the terminal connectors = 190mm).
 
 In Finland here are proper replacements for the battery:
-* [BATTERY SMF 12V 45AH](https://www.biltema.fi/en-fi/car---mc/car-spares/electrical-system/car-batteries/battery-smf-12v-45ah-2000029829)
-* [Sznajder-Silver 45Ah/360A akku P237xL127xK225 -+](https://m.motonet.fi/fi/tuote/903009/Sznajder-Silver-45Ah360A-akku-P237xL127xK225--)
-* [Sznajder 45Ah/340A akku P237xL127xK225 -+](https://m.motonet.fi/fi/tuote/9054577/Sznajder-45Ah340A-akku-P237xL127xK225--)
-* [Exide EB454 45Ah/330A akku P237xL127xK227](https://m.motonet.fi/fi/tuote/909512/Exide-EB454-45Ah330A-akku-P237xL127xK227)
 
-I've bought the "Sznajder Silver" battery from Motonet and it's working well.
+* [Exide EA530 53 Ah / 540 A akku P207 x L175 x K190 -+](https://www.motonet.fi/tuote/exide-ea530-53-ah-540-a-akku-p207-x-l175-x-k190?product=90-01738)
+* [Exide EB500 50 Ah / 450 A akku P207 x L175 x K190 -+](https://www.motonet.fi/tuote/exide-eb500-50-ah-450-a-akku-p207-x-l175-x-k190?product=90-9505)
+* [Exide EL550 55 Ah / 540 A akku P207xL175xK190 -+](https://www.motonet.fi/tuote/exide-el550-55-ah-540-a-akku-p207xl175xk190?product=90-01897)
+* [MTX Energy Käynnistysakku 52Ah/470A P207xL175xK190 -+](https://www.motonet.fi/tuote/mtx-energy-kaynnistysakku-52ah470a-p207xl175xk190?product=90-01421)
+
+I have no first-hand experience with a replacement yet.
+
+### 12V Battery Charging
+
+The following applies to Leaf 2014 only; I have no idea whether this applies still to Leaf 2022. I'll update when I figure this out.
 
 Beware: Nissan Leaf only charges its 12V battery when:
 * It's powered on and there's 14V coming from the traction battery,
