@@ -53,8 +53,8 @@ P205/55 R16
    * You can also buy both wipers as a pair: [Bosch AeroTwin Retro AR653S at Autodoc](https://www.autodoc.fi/bosch/1194314).
 
 I've discovered the wiper exact part types via [Bosch Wiper Blade finder](https://www.boschwiperblades.com/)
-which will find AR26U and AR16U exactly as above. You need to put Nissan Leaf 2018 there since
-the page doesn't seem to recognize Leaf 2015 anymore.
+which will find AR26U and AR16U exactly as above. You need to put Nissan Leaf 2018.
+
 * The AR stands for "AEROTWIN Upgrade" whatever that is,
 * The U stands probably for Hybrid, or god knows what.
 
