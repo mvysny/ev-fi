@@ -90,3 +90,11 @@ Therefore, the 12V battery will NOT be charged when Leaf is:
 Therefore, when you leave your Leaf charging for a month in a cold weather,
 it's possible to find the car with a dead 12V battery even though Leaf was connected
 to the charger for the whole time.
+
+## Dimensions
+
+* Length: 4479 mm
+* Width: 1790 mm
+* Height: 1535 mm (with 16" wheels)
+* Wheelbase: 2700 mm
+* Ground clearance: 150 mm

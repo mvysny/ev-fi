@@ -119,3 +119,11 @@ to the charger for the whole time.
 * Plant State:Tennessee
 * Plant City:Smyrna
 * Battery capacity: 24kWh
+
+## Dimensions
+
+* Length: 4445 mm
+* Width: 1790 mm
+* Height: 1565 mm
+* Wheelbase: 2700 mm
+* Ground clearance: 160 mm
