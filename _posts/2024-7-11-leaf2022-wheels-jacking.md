@@ -98,3 +98,9 @@ to the charger for the whole time.
 * Height: 1535 mm (with 16" wheels)
 * Wheelbase: 2700 mm
 * Ground clearance: 150 mm
+
+## Spare Air cabin filter
+
+Dimensions: 260mm x 150mm x 25mm; Suodatin or Raitisilmasuodatin
+
+E.g. [CORTECO 80001720](https://www.autodoc.fi/corteco/2103771) or [BOSCH](https://www.autodoc.fi/bosch/7448896).
