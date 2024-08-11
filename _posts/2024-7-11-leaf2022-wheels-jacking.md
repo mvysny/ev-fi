@@ -114,3 +114,6 @@ Slow-charging via the Type 1 AC connector is okay.
 Another flaw is that the water from the windshield [drains onto a suspension strut](https://www.youtube.com/watch?v=IaTP5wfawTw),
 causing it to rust. I tried ordering [Front Suspension Strut Top Mount Cover for Nissan Leaf ZE0](https://www.aliexpress.com/item/1005006439525971.html) -
 even though it's intended for the older generation of Leafs, hopefully it will match the new ones as well. I'll let you know.
+
+- You can get the [WD-40 oil from Motonet](https://www.motonet.fi/tuote/wd40-monitoimioljy-200-ml?product=60-8040)
+- I'll just use the standard grease paste such as [Wheel bearing grease, Litium](https://www.biltema.fi/en-fi/car-care/lubrication/grease/wheel-bearing-grease-100-g-2000017180)
