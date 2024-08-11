@@ -104,3 +104,13 @@ to the charger for the whole time.
 Dimensions: 260mm x 150mm x 25mm; Suodatin or Raitisilmasuodatin
 
 E.g. [CORTECO 80001720](https://www.autodoc.fi/corteco/2103771) or [BOSCH](https://www.autodoc.fi/bosch/7448896).
+
+## Flaws
+
+Fatal flaw preventing any long-distance travels: Leaf doesn't have active cooling of its battery;
+fast-charging 2 or more times per day [makes the the battery critically warm](https://www.youtube.com/watch?v=L1Wf04npzMw).
+Slow-charging via the Type 1 AC connector is okay.
+
+Another flaw is that the water from the windshield [drains onto a suspension strut](https://www.youtube.com/watch?v=IaTP5wfawTw),
+causing it to rust. I tried ordering [Front Suspension Strut Top Mount Cover for Nissan Leaf ZE0](https://www.aliexpress.com/item/1005006439525971.html) -
+even though it's intended for the older generation of Leafs, hopefully it will match the new ones as well. I'll let you know.
