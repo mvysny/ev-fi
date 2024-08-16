@@ -105,6 +105,8 @@ Dimensions: 260mm x 150mm x 25mm; Suodatin or Raitisilmasuodatin
 
 E.g. [CORTECO 80001720](https://www.autodoc.fi/corteco/2103771) or [BOSCH](https://www.autodoc.fi/bosch/7448896).
 
+[Replacement video guide on Youtube](https://www.youtube.com/watch?v=utULMLVkcFA)
+
 ## Flaws
 
 Fatal flaw preventing any long-distance travels: Leaf doesn't have active cooling of its battery;
