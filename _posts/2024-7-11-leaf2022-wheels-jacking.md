@@ -107,6 +107,10 @@ E.g. [CORTECO 80001720](https://www.autodoc.fi/corteco/2103771) or [BOSCH](https
 
 [Replacement video guide on Youtube](https://www.youtube.com/watch?v=utULMLVkcFA)
 
+The filter cover is quite difficult to open, but even more difficult to close. Make sure to close the top hinge first and make sure it's not moving before snapping the lower hinge inplace.
+The upper hinge tip needs to go under a part that holds it in place. I broke mine trying to close the damn thing -
+if you do, just order a spare part [92419-3SG0A on AliExpress](https://www.aliexpress.com/item/1005006776807804.html) (or [here](https://www.aliexpress.com/item/1005006776972392.html)).
+
 ## Flaws
 
 Fatal flaw preventing any long-distance travels: Leaf doesn't have active cooling of its battery;
