@@ -99,7 +99,7 @@ to the charger for the whole time.
 * Wheelbase: 2700 mm
 * Ground clearance: 150 mm
 
-## Spare Air cabin filter
+## Spare air cabin filter
 
 Dimensions: 260mm x 150mm x 25mm; Suodatin or Raitisilmasuodatin
 
