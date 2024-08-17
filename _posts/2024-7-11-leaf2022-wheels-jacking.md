@@ -103,7 +103,7 @@ to the charger for the whole time.
 
 Dimensions: 260mm x 150mm x 25mm; Suodatin or Raitisilmasuodatin
 
-E.g. [CORTECO 80001720](https://www.autodoc.fi/corteco/2103771) or [BOSCH](https://www.autodoc.fi/bosch/7448896).
+E.g. [CORTECO 80001720](https://www.autodoc.fi/corteco/2103771) or [BOSCH 1 987 432 267](https://www.autodoc.fi/bosch/7448896).
 
 There are lots of video guides on YouTube, I like this [Replacement video guide on Youtube](https://www.youtube.com/watch?v=i_07YvqB10Y).
 
