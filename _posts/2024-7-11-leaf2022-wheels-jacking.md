@@ -105,13 +105,18 @@ Dimensions: 260mm x 150mm x 25mm; Suodatin or Raitisilmasuodatin
 
 E.g. [CORTECO 80001720](https://www.autodoc.fi/corteco/2103771) or [BOSCH](https://www.autodoc.fi/bosch/7448896).
 
-[Replacement video guide on Youtube](https://www.youtube.com/watch?v=utULMLVkcFA)
+There are lots of video guides on YouTube, I like this [Replacement video guide on Youtube](https://www.youtube.com/watch?v=i_07YvqB10Y).
 
-The filter cover is quite difficult to open, but even more difficult to close. Make sure to close the top hinge first and make sure it's not moving before snapping the lower hinge inplace.
+The filter cover is quite difficult to open, but even more difficult to close. Make sure to close the top hinge
+first and make sure it's not moving before snapping the lower hinge inplace.
 The upper hinge tip needs to go under a part that holds it in place. I broke mine trying to close the damn thing -
 if you do, just order a spare part [92419-3SG0A on AliExpress](https://www.aliexpress.com/item/1005006776807804.html) (or [here](https://www.aliexpress.com/item/1005006776972392.html)).
+The original car part number is `27276-1FC0A`.
 
-## Flaws
+When installing the filter, the air flow goes from the front of the vehicle towards the back. Make sure
+the air flow arrow points towards the cabin and towards the seats.
+
+## Leaf Flaws
 
 Fatal flaw preventing any long-distance travels: Leaf doesn't have active cooling of its battery;
 fast-charging 2 or more times per day [makes the the battery critically warm](https://www.youtube.com/watch?v=L1Wf04npzMw).
