@@ -16,7 +16,7 @@ Biltema: [Wheel Nut Kit M12 x 1,25, 35mm, Art. 33-3305](https://www.biltema.fi/e
 ## Tightening the lug nuts
 
 The tightening torque is 108 NM; I recommend getting a proper torque spanner
-such as [Momenttiavain 70-350 NM](https://www.biltema.fi/tyokalut/kasityokalut/hylsytyokalut/momenttiavaimet/momenttiavain-70-350-nm-2000030634).
+such as [Momenttiavain 40-210 NM](https://www.biltema.fi/tyokalut/kasityokalut/hylsytyokalut/momenttiavaimet/momenttiavain-12-2000020911).
 The socket size is 21".
 
 ## Jacking
