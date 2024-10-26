@@ -40,7 +40,17 @@ and a couple of hockey pucks - looks to be working the best.
 
 ## Tyres
 
-P205/55 R16
+* P205/55 R16
+* Wheel nut torque: 108 Nm
+* Tire pressure: 2,5 bar
+* Wheel nuts: 21mm
+
+Rotation:
+
+* LF -> LR
+* LR -> LF
+* RF -> RR
+* RR -> RF
 
 ## Windshield wiper replacement
 
