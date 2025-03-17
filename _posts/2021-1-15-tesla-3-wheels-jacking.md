@@ -44,16 +44,10 @@ One way is to get the [official Tesla Model 3 wipers at the Tesla Shop](https://
 Alternatively, the [Bosch Aerotwin A102S](https://www.autodoc.fi/bosch/7882805) work really well,
 according to both my experience and the [TeslaBjorn's video](https://youtu.be/gHe5wvxjFcI?t=601):
 * They're a pair of 650mm (26") and 475mm (19") wipers.
-
-I found no other alternatives sold in Finland:
-* The [Tesla Model 3 Reddit thread](https://www.reddit.com/r/teslamotors/comments/e85ugt/tesla_model_3_demystifying_the_wiper_blades/)
-  suggests getting Bosch Aerotwin 3397014116 but they don't appear to be sold in Finland.
-* The [Bosch Wiper Blade finder](https://www.boschwiperblades.com/) only seem to support
-  Model S and Roadster; that suggests that there are no Bosch wipers for Model 3
-  sold in Finland.
-* The [The ULTIMATE Guide to Wiper Blades for your Tesla Model 3](https://www.youtube.com/watch?v=ucF3bXqXeuw)
-  suggests Michelin Advanced wipers, Bosch Icon 19OE or Rain-X Endura 19", neither of them appear to
-  be sold in Finland.
+* You can also get them from vempele.fi: [RIDEX](https://www.vempele.fi/en/item/windscreen-wipers-ridex-tesla-model-3-y),
+  [RIDEX plus](https://www.vempele.fi/en/item/windscreen-wipers-ridex-plus-tesla-model-3-y),
+  [Bosch Aerotwin A102S](https://www.vempele.fi/en/item/windscreen-wipers-bosch-aerotwin-tesla-model-3-y)
+  or [Valeo Silencio](https://www.vempele.fi/en/item/windscreen-wipers-valeo-silencio-vf818-tesla-model-3-y).
 
 ## TeslaCam - storing videos
 
@@ -66,6 +60,11 @@ but is a bit more expensive.
 Only sold in the US. There's [Paint repair kit at the US Tesla Shop](https://shop.tesla.com/product/paint-repair-kit),
 but there's no such thing in [Finland Tesla Shop](https://shop.tesla.com/fi_fi/category/ajoneuvon-lisavarusteet/model-3).
 The reason is that the paint repair kit is missing a CE-approval and thus not allowed in EU.
+
+Basic repairs can be done with the Touch Up Paint Pen - make sure to get the right color:
+
+* [vempele.fi](https://www.vempele.fi/en/item/paint-repair-tesla)
+* [FIRANTO](https://www.amazon.de/-/en/FIRANTO-Paint-Repair-Tesla-Motors/dp/B09427NJSH)
 
 ## Cabin filters
 

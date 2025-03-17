@@ -45,6 +45,12 @@ and a couple of hockey pucks - looks to be working the best.
 
 P205/55 R16
 
+## Paint repair kit
+
+First, find the paint code; [this page can help](https://touchupdirect.com/touch-up-paint/), just
+select your car make, model and year and then click "where's my code". You can then order
+the kit from there, or you can google for Firanto paint repair kit on Amazon.
+
 ## Windshield wiper replacement
 
 * Rear windshield wiper: 250mm; I bought [Bosch Rear H250 wiper in Motonet](https://www.motonet.fi/fi/tuote/129580/Bosch-H250-takalasinpyyhin-25-cm);
